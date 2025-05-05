@@ -50,7 +50,7 @@ export default function PublicationsPage() {
       let pmid = "";
       let year = "";
       let journal = "";
-      let authors: string[] = [];
+      const authors: string[] = [];
       let titleLines: string[] = [];
       let abstractLines: string[] = [];
       let readingTitle = false;
