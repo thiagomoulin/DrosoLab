@@ -1,0 +1,3773 @@
+PMID- 34079435
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210605
+IS  - 1662-4548 (Print)
+IS  - 1662-453X (Electronic)
+IS  - 1662-453X (Linking)
+VI  - 15
+DP  - 2021
+TI  - The Drosophila melanogaster Levodopa-Induced Depression Model Exhibits Negative 
+      Geotaxis Deficits and Differential Gene Expression in Males and Females.
+PG  - 653470
+LID - 10.3389/fnins.2021.653470 [doi]
+LID - 653470
+AB  - More than 320 million people live with depression in the world, a disorder that 
+      severely limits psychosocial functioning and diminishes quality of life. The 
+      prevalence of major depression is almost two times higher in women than in men. 
+      However, the molecular mechanisms of its sex-specific pathophysiology are still 
+      poorly understood. Drosophila melanogaster is an established model for 
+      neurobiological research of depression-like states, as well as for the study of 
+      molecular and genetic sex differences in the brain. Here, we investigated 
+      sex-specific effects on forced-climbing locomotion (negative geotaxis) and gene 
+      expression of a fly model of depression-like phenotypes induced by levodopa 
+      administration, which was previously shown to impair normal food intake, mating 
+      frequency, and serotonin concentration. We observed that both males and females 
+      show deficits in the forced-climbing paradigm; however, modulated by distinct 
+      gene expression patterns after levodopa administration. Our results suggest that 
+      Drosophila models can be a valuable tool for identifying the molecular mechanisms 
+      underlying the difference of depressive disorder prevalence between men and 
+      women.
+CI  - Copyright © 2021 Moulin, Ferro, Hoyer, Cheung, Williams and Schiöth.
+FAU - Moulin, Thiago C
+AU  - Moulin TC
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden.
+FAU - Ferro, Federico
+AU  - Ferro F
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden.
+FAU - Hoyer, Angela
+AU  - Hoyer A
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden.
+FAU - Cheung, Pierre
+AU  - Cheung P
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden.
+AD  - Institute for Translational Medicine and Biotechnology, Sechenov First Moscow 
+      State Medical University, Moscow, Russia.
+LA  - eng
+PT  - Journal Article
+DEP - 20210517
+PL  - Switzerland
+TA  - Front Neurosci
+JT  - Frontiers in neuroscience
+JID - 101478481
+PMC - PMC8165388
+OTO - NOTNLM
+OT  - CG4269
+OT  - CG6821
+OT  - L-Dopa
+OT  - climbing behavior
+OT  - major depression
+OT  - negative geotaxis
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2021/06/04 06:00
+MHDA- 2021/06/04 06:01
+PMCR- 2021/01/01
+CRDT- 2021/06/03 06:39
+PHST- 2021/01/14 00:00 [received]
+PHST- 2021/04/20 00:00 [accepted]
+PHST- 2021/06/03 06:39 [entrez]
+PHST- 2021/06/04 06:00 [pubmed]
+PHST- 2021/06/04 06:01 [medline]
+PHST- 2021/01/01 00:00 [pmc-release]
+AID - 10.3389/fnins.2021.653470 [doi]
+PST - epublish
+SO  - Front Neurosci. 2021 May 17;15:653470. doi: 10.3389/fnins.2021.653470. 
+      eCollection 2021.
+
+PMID- 39522787
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241220
+LR  - 20241220
+IS  - 1879-1026 (Electronic)
+IS  - 0048-9697 (Linking)
+VI  - 957
+DP  - 2024 Dec 20
+TI  - Perfluorooctanoic acid induces transgenerational modifications in reproduction, 
+      metabolism, locomotor activity, and sleep behavior in Drosophila melanogaster and 
+      deleterious effects in human cancer cells.
+PG  - 177472
+LID - S0048-9697(24)07629-0 [pii]
+LID - 10.1016/j.scitotenv.2024.177472 [doi]
+AB  - Perfluorooctanoic acid (PFOA) has been widely documented to affect various 
+      aspects of health, including development, metabolism and neuronal function in a 
+      variety of organisms. Despite numerous reports detailing these effects, a 
+      comprehensive mechanistic model remains elusive, especially with regard to the 
+      long-term effects of PFOA, as it bioaccumulates in food chains with a long 
+      half-life. In this study, we evaluated the impact of PFOA on several critical 
+      physiological states of Drosophila melanogaster. Our findings indicate that PFOA 
+      exposure significantly decreases reproductive capacity and induces alterations in 
+      starvation resistance and feeding behavior in flies. Interestingly, PFOA exposure 
+      also caused changes in locomotor activity and sleep patterns compared with flies 
+      receiving a standard diet. Notably, compared with controls, the F2 generation 
+      showed increased locomotion and shorter sleep duration during the dark phase, 
+      even without direct exposure to PFOA, indicating possible transgenerational 
+      effects. Transcriptomic analysis revealed that PFOA also disrupts fatty acid 
+      metabolism and alters the expression of immune-responsive genes in Drosophila. In 
+      the U-2 OS human osteosarcoma cell line, we examined the impact of PFOA on 
+      circadian rhythm regulatory proteins and discovered that, compared with controls, 
+      BMAL1 levels increased at concentrations from 10 nM to 10 μM. In summary, this 
+      research highlights the influence of PFOA on diverse biological processes, 
+      including reproduction, feeding behavior, starvation resistance, locomotion, and 
+      sleep activity in Drosophila. It also highlights the ability of PFOA to alter 
+      BMAL1 expression patterns in human osteosarcoma cells with deleterious effects.
+CI  - Copyright © 2024 The Authors. Published by Elsevier B.V. All rights reserved.
+FAU - Liao, Sifang
+AU  - Liao S
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Sun, Chengxi
+AU  - Sun C
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden; Department of Clinical Laboratory, Qilu 
+      Hospital of Shandong University, Jinan, China.
+FAU - Lagunas-Rangel, Francisco Alejandro
+AU  - Lagunas-Rangel FA
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden. Electronic address: 
+      francisco.lagunas@neuro.uu.se.
+FAU - Liu, Wen
+AU  - Liu W
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Yi, Shiyao
+AU  - Yi S
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Browne-Johnson, Dalia
+AU  - Browne-Johnson D
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Eklund, Filippa
+AU  - Eklund F
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Zhang, Yi
+AU  - Zhang Y
+AD  - Department of Clinical Laboratory, Qilu Hospital of Shandong University, Jinan, 
+      China; Shandong Engineering Research Center of Biomarker and Artificial 
+      Intelligence Application, Jinan, China.
+FAU - Kudłak, Błażej
+AU  - Kudłak B
+AD  - Faculty of Chemistry, Department of Analytical Chemistry, Gdańsk University of 
+      Technology, Gdańsk, Poland.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden. Electronic address: 
+      helgi.schioth@neuro.uu.se.
+LA  - eng
+PT  - Journal Article
+DEP - 20241115
+PL  - Netherlands
+TA  - Sci Total Environ
+JT  - The Science of the total environment
+JID - 0330500
+RN  - 0 (Caprylates)
+RN  - 0 (Fluorocarbons)
+RN  - 947VD76D3L (perfluorooctanoic acid)
+RN  - 0 (Environmental Pollutants)
+SB  - IM
+MH  - Animals
+MH  - *Caprylates/toxicity
+MH  - *Fluorocarbons/toxicity
+MH  - *Drosophila melanogaster/drug effects/physiology
+MH  - *Locomotion/drug effects
+MH  - *Reproduction/drug effects
+MH  - Humans
+MH  - *Sleep/drug effects
+MH  - Environmental Pollutants/toxicity
+MH  - Cell Line, Tumor
+OTO - NOTNLM
+OT  - BMAL1
+OT  - Drosophila
+OT  - Environmental concentration
+OT  - Osteosarcoma cell
+OT  - Pollutant
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2024/11/13 13:48
+MHDA- 2024/12/20 06:23
+CRDT- 2024/11/10 19:29
+PHST- 2024/08/07 00:00 [received]
+PHST- 2024/10/21 00:00 [revised]
+PHST- 2024/11/07 00:00 [accepted]
+PHST- 2024/12/20 06:23 [medline]
+PHST- 2024/11/13 13:48 [pubmed]
+PHST- 2024/11/10 19:29 [entrez]
+AID - S0048-9697(24)07629-0 [pii]
+AID - 10.1016/j.scitotenv.2024.177472 [doi]
+PST - ppublish
+SO  - Sci Total Environ. 2024 Dec 20;957:177472. doi: 10.1016/j.scitotenv.2024.177472. 
+      Epub 2024 Nov 15.
+
+PMID- 33242563
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210621
+LR  - 20210621
+IS  - 1873-7528 (Electronic)
+IS  - 0149-7634 (Linking)
+VI  - 120
+DP  - 2021 Jan
+TI  - Rodent and fly models in behavioral neuroscience: An evaluation of methodological 
+      advances, comparative research, and future perspectives.
+PG  - 1-12
+LID - S0149-7634(20)30651-5 [pii]
+LID - 10.1016/j.neubiorev.2020.11.014 [doi]
+AB  - The assessment of behavioral outcomes is a central component of neuroscientific 
+      research, which has required continuous technological innovations to produce more 
+      detailed and reliable findings. In this article, we provide an in-depth review on 
+      the progress and future implications for three model organisms (mouse, rat, and 
+      Drosophila) essential to our current understanding of behavior. By compiling a 
+      comprehensive catalog of popular assays, we are able to compare the diversity of 
+      tasks and usage of these animal models in behavioral research. This compilation 
+      also allows for the evaluation of existing state-of-the-art methods and 
+      experimental applications, including optogenetics, machine learning, and 
+      high-throughput behavioral assays. We go on to discuss novel apparatuses and 
+      inter-species analyses for centrophobism, feeding behavior, aggression and mating 
+      paradigms, with the goal of providing a unique view on comparative behavioral 
+      research. The challenges and recent advances are evaluated in terms of their 
+      translational value, ethical procedures, and trustworthiness for behavioral 
+      research.
+CI  - Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Moulin, Thiago C
+AU  - Moulin TC
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden. Electronic address: thiago.moulin@neuro.uu.se.
+FAU - Covill, Laura E
+AU  - Covill LE
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden; Center for Hematology and Regenerative Medicine, Karolinska 
+      Institutet, Stockholm, Sweden.
+FAU - Itskov, Pavel M
+AU  - Itskov PM
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden; Department of Pharmacology, Institute of Pharmacy, Sechenov 
+      First Moscow State Medical University, Moscow, Russia; Champalimaud Centre for 
+      the Unknown, Lisbon, Portugal.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden; Institute for Translational Medicine and Biotechnology, Sechenov 
+      First Moscow State Medical University, Moscow, Russia.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20201123
+PL  - United States
+TA  - Neurosci Biobehav Rev
+JT  - Neuroscience and biobehavioral reviews
+JID - 7806090
+SB  - IM
+MH  - Aggression
+MH  - Animals
+MH  - Behavioral Research
+MH  - Mice
+MH  - Models, Animal
+MH  - *Neurosciences
+MH  - Rats
+MH  - *Rodentia
+OTO - NOTNLM
+OT  - 3Rs
+OT  - Aggression
+OT  - Animal ethics
+OT  - Animal models
+OT  - Anxiety
+OT  - Artificial intelligence
+OT  - Behavioral tests
+OT  - Centrophobism
+OT  - Closed-loop feedback optogenetics
+OT  - Feeding
+OT  - Mating
+OT  - Reproducibility
+OT  - Translational research
+EDAT- 2020/11/27 06:00
+MHDA- 2021/06/22 06:00
+CRDT- 2020/11/26 20:08
+PHST- 2020/03/16 00:00 [received]
+PHST- 2020/08/25 00:00 [revised]
+PHST- 2020/11/12 00:00 [accepted]
+PHST- 2020/11/27 06:00 [pubmed]
+PHST- 2021/06/22 06:00 [medline]
+PHST- 2020/11/26 20:08 [entrez]
+AID - S0149-7634(20)30651-5 [pii]
+AID - 10.1016/j.neubiorev.2020.11.014 [doi]
+PST - ppublish
+SO  - Neurosci Biobehav Rev. 2021 Jan;120:1-12. doi: 10.1016/j.neubiorev.2020.11.014. 
+      Epub 2020 Nov 23.
+
+PMID- 36527001
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221220
+LR  - 20221222
+IS  - 1741-7007 (Electronic)
+IS  - 1741-7007 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2022 Dec 17
+TI  - A simple high-throughput method for automated detection of Drosophila 
+      melanogaster light-dependent behaviours.
+PG  - 283
+LID - 10.1186/s12915-022-01476-z [doi]
+LID - 283
+AB  - BACKGROUND: Like most living organisms, the fruit fly Drosophila melanogaster 
+      exhibits strong and diverse behavioural reactions to light. Drosophila is a 
+      diurnal animal that displays both short- and long-term responses to light, 
+      important for, instance, in avoidance and light wavelength preference, regulation 
+      of eclosion, courtship, and activity, and provides an important model organism 
+      for understanding the regulation of circadian rhythms both at molecular and 
+      circuit levels. However, the assessment and comparison of light-based behaviours 
+      is still a challenge, mainly due to the lack of a standardised platform to 
+      measure behaviour and different protocols created across studies. Here, we 
+      describe the Drosophila Interactive System for Controlled Optical manipulations 
+      (DISCO), a low-cost, automated, high-throughput device that records the flies' 
+      activity using infrared beams while performing LED light manipulations. RESULTS: 
+      To demonstrate the effectiveness of this tool and validate its potential as a 
+      standard platform, we developed a number of distinct assays, including measuring 
+      the locomotor response of flies exposed to sudden darkness (lights-off) stimuli. 
+      Both white-eyed and red-eyed wild-type flies exhibit increased activity after the 
+      application of stimuli, while no changes can be observed in Fmr1 null allele 
+      flies, a model of fragile X syndrome. Next, to demonstrate the use of DISCO in 
+      long-term protocols, we monitored the circadian rhythm of the flies for 48 h 
+      while performing an alcohol preference test. We show that increased alcohol 
+      consumption happens intermittently throughout the day, especially in the dark 
+      phases. Finally, we developed a feedback-loop algorithm to implement a place 
+      preference test based on the flies' innate aversion to blue light and preference 
+      for green light. We show that both white-eyed and red-eyed wild-type flies were 
+      able to learn to avoid the blue-illuminated zones. CONCLUSIONS: Our results 
+      demonstrate the versatility of DISCO for a range of protocols, indicating that 
+      this platform can be used in a variety of ways to study light-dependent 
+      behaviours in flies.
+CI  - © 2022. The Author(s).
+FAU - Moulin, Thiago C
+AU  - Moulin TC
+AUID- ORCID: 0000-0001-7811-5383
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden. thiago.moulin@neuro.uu.se.
+AD  - Department of Experimental Medical Science, Lund University, Lund, Sweden. 
+      thiago.moulin@neuro.uu.se.
+FAU - Dey, Sovik
+AU  - Dey S
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Dashi, Giovanna
+AU  - Dashi G
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Li, Lei
+AU  - Li L
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Sridhar, Vaasudevan
+AU  - Sridhar V
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Safa, Tania
+AU  - Safa T
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Berkins, Samuel
+AU  - Berkins S
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+LA  - eng
+GR  - 857394/Horizon 2020/
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20221217
+PL  - England
+TA  - BMC Biol
+JT  - BMC biology
+JID - 101190720
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (FMR1 protein, Drosophila)
+RN  - 139135-51-6 (Fragile X Mental Retardation Protein)
+SB  - IM
+MH  - Animals
+MH  - *Drosophila melanogaster/physiology
+MH  - Circadian Rhythm/physiology
+MH  - Drosophila/physiology
+MH  - Motor Activity/physiology
+MH  - Vision, Ocular
+MH  - *Drosophila Proteins
+MH  - Fragile X Mental Retardation Protein
+PMC - PMC9758938
+OTO - NOTNLM
+OT  - Activity monitor
+OT  - Circadian rhythm
+OT  - Ethanol intake
+OT  - Jump response
+OT  - Light response
+OT  - ON/OFF assay
+OT  - Operant conditioning
+OT  - Spatial learning
+OT  - Visual learning
+COIS- The authors declare that they have no competing interests.
+EDAT- 2022/12/17 06:00
+MHDA- 2022/12/21 06:00
+PMCR- 2022/12/17
+CRDT- 2022/12/16 23:48
+PHST- 2021/09/02 00:00 [received]
+PHST- 2022/11/23 00:00 [accepted]
+PHST- 2022/12/16 23:48 [entrez]
+PHST- 2022/12/17 06:00 [pubmed]
+PHST- 2022/12/21 06:00 [medline]
+PHST- 2022/12/17 00:00 [pmc-release]
+AID - 10.1186/s12915-022-01476-z [pii]
+AID - 1476 [pii]
+AID - 10.1186/s12915-022-01476-z [doi]
+PST - epublish
+SO  - BMC Biol. 2022 Dec 17;20(1):283. doi: 10.1186/s12915-022-01476-z.
+
+PMID- 35326421
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220413
+LR  - 20220413
+IS  - 2073-4409 (Electronic)
+IS  - 2073-4409 (Linking)
+VI  - 11
+IP  - 6
+DP  - 2022 Mar 11
+TI  - The Statin Target Hmgcr Regulates Energy Metabolism and Food Intake through 
+      Central Mechanisms.
+LID - 10.3390/cells11060970 [doi]
+LID - 970
+AB  - The statin drug target, 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR), is 
+      strongly linked to body mass index (BMI), yet how HMGCR influences BMI is not 
+      understood. In mammals, studies of peripheral HMGCR have not clearly identified a 
+      role in BMI maintenance and, despite considerable central nervous system 
+      expression, a function for central HMGCR has not been determined. Similar to 
+      mammals, Hmgcr is highly expressed in the Drosophila melanogaster brain. 
+      Therefore, genetic and pharmacological studies were performed to identify how 
+      central Hmgcr regulates Drosophila energy metabolism and feeding behavior. We 
+      found that inhibiting Hmgcr, in insulin-producing cells of the Drosophila pars 
+      intercerebralis (PI), the fly hypothalamic equivalent, significantly reduces the 
+      expression of insulin-like peptides, severely decreasing insulin signaling. In 
+      fact, reducing Hmgcr expression throughout development causes decreased body 
+      size, increased lipid storage, hyperglycemia, and hyperphagia. Furthermore, the 
+      Hmgcr induced hyperphagia phenotype requires a conserved insulin-regulated 
+      α-glucosidase, target of brain insulin (tobi). In rats and mice, acute inhibition 
+      of hypothalamic Hmgcr activity stimulates food intake. This study presents 
+      evidence of how central Hmgcr regulation of metabolism and food intake could 
+      influence BMI.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Alsehli, Ahmed M
+AU  - Alsehli AM
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+AD  - Faculty of Medicine, King Abdulaziz University and Hospital, Al Ehtifalat St., 
+      Jeddah 21589, Saudi Arabia.
+FAU - Gartner, Sarah N
+AU  - Gartner SN
+AD  - Department of Biological Sciences, University of Waikato, Private Bag 3105, 
+      Hamilton 3240, New Zealand.
+FAU - Clemensson, Laura E
+AU  - Clemensson LE
+AUID- ORCID: 0000-0002-6875-3928
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Liao, Sifang
+AU  - Liao S
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Eriksson, Anders
+AU  - Eriksson A
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Isgrove, Kiriana
+AU  - Isgrove K
+AD  - Department of Biological Sciences, University of Waikato, Private Bag 3105, 
+      Hamilton 3240, New Zealand.
+FAU - Thelander, Lina
+AU  - Thelander L
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Khan, Zaid
+AU  - Khan Z
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+AD  - Department of Plant Protection Biology, Swedish University of Agricultural 
+      Sciences (SLU), Sundsvägen 14, 230 53 Alnarp, Sweden.
+FAU - Itskov, Pavel M
+AU  - Itskov PM
+AUID- ORCID: 0000-0002-2191-7083
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Moulin, Thiago C
+AU  - Moulin TC
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Ambrosi, Valerie
+AU  - Ambrosi V
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Al-Sabri, Mohamed H
+AU  - Al-Sabri MH
+AUID- ORCID: 0000-0002-9542-8653
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Lagunas-Rangel, Francisco Alejandro
+AU  - Lagunas-Rangel FA
+AUID- ORCID: 0000-0001-7730-6452
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Olszewski, Pawel K
+AU  - Olszewski PK
+AD  - Department of Biological Sciences, University of Waikato, Private Bag 3105, 
+      Hamilton 3240, New Zealand.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Functional Pharmacology and Neuroscience, Department of Surgical Sciences, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+LA  - eng
+GR  - 2016-01088/The Swedish Research Council/
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220311
+PL  - Switzerland
+TA  - Cells
+JT  - Cells
+JID - 101600052
+RN  - 0 (Hydroxymethylglutaryl-CoA Reductase Inhibitors)
+RN  - 0 (Insulin)
+SB  - IM
+MH  - Animals
+MH  - Drosophila melanogaster/metabolism
+MH  - Eating
+MH  - Energy Metabolism
+MH  - *Hydroxymethylglutaryl-CoA Reductase Inhibitors/pharmacology
+MH  - Hyperphagia
+MH  - Insulin/metabolism
+MH  - Mammals/metabolism
+MH  - Mice
+MH  - Rats
+PMC - PMC8946516
+OTO - NOTNLM
+OT  - body maintenance index
+OT  - feeding behavior
+OT  - hypothalamus
+OT  - metabolism
+OT  - mevalonate pathway
+OT  - obesity
+OT  - statins
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/03/26 06:00
+MHDA- 2022/04/14 06:00
+PMCR- 2022/03/11
+CRDT- 2022/03/25 01:01
+PHST- 2022/02/10 00:00 [received]
+PHST- 2022/03/09 00:00 [revised]
+PHST- 2022/03/10 00:00 [accepted]
+PHST- 2022/03/25 01:01 [entrez]
+PHST- 2022/03/26 06:00 [pubmed]
+PHST- 2022/04/14 06:00 [medline]
+PHST- 2022/03/11 00:00 [pmc-release]
+AID - cells11060970 [pii]
+AID - cells-11-00970 [pii]
+AID - 10.3390/cells11060970 [doi]
+PST - epublish
+SO  - Cells. 2022 Mar 11;11(6):970. doi: 10.3390/cells11060970.
+
+PMID- 27280443
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170322
+LR  - 20181113
+IS  - 1553-7404 (Electronic)
+IS  - 1553-7390 (Print)
+IS  - 1553-7390 (Linking)
+VI  - 12
+IP  - 6
+DP  - 2016 Jun
+TI  - The Drosophila ETV5 Homologue Ets96B: Molecular Link between Obesity and Bipolar 
+      Disorder.
+PG  - e1006104
+LID - 10.1371/journal.pgen.1006104 [doi]
+LID - e1006104
+AB  - Several reports suggest obesity and bipolar disorder (BD) share some 
+      physiological and behavioural similarities. For instance, obese individuals are 
+      more impulsive and have heightened reward responsiveness, phenotypes associated 
+      with BD, while bipolar patients become obese at a higher rate and earlier age 
+      than people without BD; however, the molecular mechanisms of such an association 
+      remain obscure. Here we demonstrate, using whole transcriptome analysis, that 
+      Drosophila Ets96B, homologue of obesity-linked gene ETV5, regulates cellular 
+      systems associated with obesity and BD. Consistent with a role in obesity and BD, 
+      loss of nervous system Ets96B during development increases triacylglyceride 
+      concentration, while inducing a heightened startle-response, as well as 
+      increasing hyperactivity and reducing sleep. Of notable interest, mouse Etv5 and 
+      Drosophila Ets96B are expressed in dopaminergic-rich regions, and loss of Ets96B 
+      specifically in dopaminergic neurons recapitulates the metabolic and behavioural 
+      phenotypes. Moreover, our data indicate Ets96B inhibits dopaminergic-specific 
+      neuroprotective systems. Additionally, we reveal that multiple SNPs in human ETV5 
+      link to body mass index (BMI) and BD, providing further evidence for ETV5 as an 
+      important and novel molecular intermediate between obesity and BD. We identify a 
+      novel molecular link between obesity and bipolar disorder. The Drosophila ETV5 
+      homologue Ets96B regulates the expression of cellular systems with links to 
+      obesity and behaviour, including the expression of a conserved endoplasmic 
+      reticulum molecular chaperone complex known to be neuroprotective. Finally, a 
+      connection between the obesity-linked gene ETV5 and bipolar disorder emphasizes a 
+      functional relationship between obesity and BD at the molecular level.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Klockars, Anica
+AU  - Klockars A
+AUID- ORCID: 0000-0002-4750-2193
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Eriksson, Anders
+AU  - Eriksson A
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Voisin, Sarah
+AU  - Voisin S
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Dnyansagar, Rohit
+AU  - Dnyansagar R
+AUID- ORCID: 0000-0002-2699-0087
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Wiemerslage, Lyle
+AU  - Wiemerslage L
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Kasagiannis, Anna
+AU  - Kasagiannis A
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Akram, Mehwish
+AU  - Akram M
+AUID- ORCID: 0000-0002-1442-7174
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Kheder, Sania
+AU  - Kheder S
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Ambrosi, Valerie
+AU  - Ambrosi V
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Hallqvist, Emilie
+AU  - Hallqvist E
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160609
+PL  - United States
+TA  - PLoS Genet
+JT  - PLoS genetics
+JID - 101239074
+RN  - 0 (Chromatin)
+RN  - 0 (DNA, Complementary)
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (ETV5 protein, human)
+RN  - 0 (Ets96B protein, Drosophila)
+RN  - 0 (Transcription Factors)
+RN  - VTD58H1Z2X (Dopamine)
+SB  - IM
+MH  - Animals
+MH  - Bipolar Disorder/*genetics
+MH  - Body Mass Index
+MH  - Chromatin/metabolism
+MH  - Crosses, Genetic
+MH  - DNA, Complementary/metabolism
+MH  - DNA-Binding Proteins/*genetics
+MH  - Disease Models, Animal
+MH  - Dopamine/metabolism
+MH  - Dopaminergic Neurons/metabolism
+MH  - Drosophila Proteins/genetics/*physiology
+MH  - Drosophila melanogaster/*genetics
+MH  - Gene Expression Regulation
+MH  - Gene Library
+MH  - Gene Silencing
+MH  - Humans
+MH  - Male
+MH  - Obesity/*genetics
+MH  - Oxidation-Reduction
+MH  - Oxidative Phosphorylation
+MH  - Phenotype
+MH  - Phylogeny
+MH  - Polymorphism, Single Nucleotide
+MH  - RNA Interference
+MH  - Transcription Factors/genetics/*physiology
+PMC - PMC4900636
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2016/06/10 06:00
+MHDA- 2017/03/23 06:00
+PMCR- 2016/06/09
+CRDT- 2016/06/10 06:00
+PHST- 2015/11/05 00:00 [received]
+PHST- 2016/05/13 00:00 [accepted]
+PHST- 2016/06/10 06:00 [entrez]
+PHST- 2016/06/10 06:00 [pubmed]
+PHST- 2017/03/23 06:00 [medline]
+PHST- 2016/06/09 00:00 [pmc-release]
+AID - PGENETICS-D-15-02699 [pii]
+AID - 10.1371/journal.pgen.1006104 [doi]
+PST - epublish
+SO  - PLoS Genet. 2016 Jun 9;12(6):e1006104. doi: 10.1371/journal.pgen.1006104. 
+      eCollection 2016 Jun.
+
+PMID- 34088158
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210609
+LR  - 20210609
+IS  - 1879-1026 (Electronic)
+IS  - 0048-9697 (Linking)
+VI  - 783
+DP  - 2021 Aug 20
+TI  - Dibutyl phthalate disrupts conserved circadian rhythm in Drosophila and human 
+      cells.
+PG  - 147038
+LID - S0048-9697(21)02108-2 [pii]
+LID - 10.1016/j.scitotenv.2021.147038 [doi]
+AB  - People are constantly exposed to phthalates, due to their common use in the 
+      production of plastics, pharmaceuticals, cosmetics and skin care products. The 
+      ability of phthalates to disrupt endocrine signaling, leading to developmental, 
+      reproductive and metabolic defects, has been studied, yet how phthalates 
+      interfere with these biological functions is still unclear. To uncover DBP 
+      interacting molecular pathways, we raised Drosophila melanogaster on food 
+      containing dibutyl phthalate (DBP) at various concentrations. Whole transcriptome 
+      analysis of adult Drosophila reveals that DBP exposure throughout development 
+      disrupts the expression of genes central to circadian rhythm regulation, 
+      including increased expression of vrille (vri, human NFIL3), timeless (tim, human 
+      TIMELESS) and period (per, human PER3), with decreased expression of 
+      Pigment-dispersing factor (Pdf). DBP exposure also alters the expression of the 
+      evolutionarily conserved nuclear receptor Hormone receptor-like in 38 (Hr38, 
+      human NR4A2), which is known to regulate Pdf expression. Furthermore, behavioral 
+      assays determined that exposing Drosophila to DBP throughout development modifies 
+      the circadian rhythm of adults. Although DBP inhibits the expression of signaling 
+      systems regulating vision, including Rh5 and Rh6, two light-sensing G-protein 
+      coupled receptors involved in the daily resetting of circadian rhythm, it does 
+      not influence eye development. Circadian rhythm genes are well conserved from 
+      flies to humans; therefore, we tested the effect of DBP exposure on human breast 
+      cells (MCF10A) and demonstrate that, similar to the fruit fly model, this 
+      exposure disrupts circadian rhythm (BMAL1 expression) at doses that promote the 
+      proliferation and migration ability of MCF10A cells. Our results are the first to 
+      provide comprehensive evidence that DBP interferes with circadian rhythm in both 
+      adult Drosophila and human cells, which may help to explain the broad 
+      physiological action of phthalates.
+CI  - Copyright © 2021 The Authors. Published by Elsevier B.V. All rights reserved.
+FAU - Liu, Wen
+AU  - Liu W
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden. Electronic address: wen.liu@neuro.uu.se.
+FAU - Cao, Hao
+AU  - Cao H
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Liao, Sifang
+AU  - Liao S
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Kudłak, Błażej
+AU  - Kudłak B
+AD  - Department of Analytical Chemistry, Faculty of Chemistry, Gdańsk University of 
+      Technology, Gdańsk, Poland.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden; Institute of Translational Medicine and Biotechnology, I. M. Sechenov 
+      First Moscow State Medical University, Moscow, Russia.
+LA  - eng
+PT  - Journal Article
+DEP - 20210415
+PL  - Netherlands
+TA  - Sci Total Environ
+JT  - The Science of the total environment
+JID - 0330500
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Hr38 protein, Drosophila)
+RN  - 0 (Receptors, Cytoplasmic and Nuclear)
+RN  - 2286E5R2KE (Dibutyl Phthalate)
+SB  - IM
+MH  - Animals
+MH  - Circadian Rhythm
+MH  - Dibutyl Phthalate/toxicity
+MH  - *Drosophila
+MH  - *Drosophila Proteins
+MH  - Drosophila melanogaster/genetics
+MH  - Humans
+MH  - Receptors, Cytoplasmic and Nuclear
+OTO - NOTNLM
+OT  - Circadian rhythm
+OT  - Dibutyl phthalate
+OT  - Drosophila and human genetics
+OT  - MCF10A cells
+OT  - Whole transcriptome sequencing
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2021/06/06 06:00
+MHDA- 2021/06/10 06:00
+CRDT- 2021/06/05 01:02
+PHST- 2021/02/18 00:00 [received]
+PHST- 2021/03/18 00:00 [revised]
+PHST- 2021/04/05 00:00 [accepted]
+PHST- 2021/06/05 01:02 [entrez]
+PHST- 2021/06/06 06:00 [pubmed]
+PHST- 2021/06/10 06:00 [medline]
+AID - S0048-9697(21)02108-2 [pii]
+AID - 10.1016/j.scitotenv.2021.147038 [doi]
+PST - ppublish
+SO  - Sci Total Environ. 2021 Aug 20;783:147038. doi: 10.1016/j.scitotenv.2021.147038. 
+      Epub 2021 Apr 15.
+
+PMID- 22618246
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130108
+LR  - 20240525
+IS  - 1420-9071 (Electronic)
+IS  - 1420-682X (Print)
+IS  - 1420-682X (Linking)
+VI  - 69
+IP  - 22
+DP  - 2012 Nov
+TI  - What model organisms and interactomics can reveal about the genetics of human 
+      obesity.
+PG  - 3819-34
+LID - 10.1007/s00018-012-1022-5 [doi]
+AB  - Genome-wide association studies have identified a number of genes associated with 
+      human body weight. While some of these genes are large fields within obesity 
+      research, such as MC4R, POMC, FTO and BDNF, the majority do not have a clearly 
+      defined functional role explaining why they may affect body weight. Here, we 
+      searched biological databases and discovered 33 additional genes associated with 
+      human obesity (CADM2, GIPR, GPCR5B, LRP1B, NEGR1, NRXN3, SH2B1, FANCL, GNPDA2, 
+      HMGCR, MAP2K5, NUDT3, PRKD1, QPCTL, TNNI3K, MTCH2, DNAJC27, SLC39A8, MTIF3, 
+      RPL27A, SEC16B, ETV5, HMGA1, TFAP2B, TUB, ZNF608, FAIM2, KCTD15, LINGO2, POC5, 
+      PTBP2, TMEM18, TMEM160). We find that the majority have orthologues in distant 
+      species, such as D. melanogaster and C. elegans, suggesting that they are 
+      important for the biology of most bilateral species. Intriguingly, signalling 
+      cascade genes and transcription factors are enriched among these obesity genes, 
+      and several of the genes show properties that could be useful for potential drug 
+      discovery. In this review, we demonstrate how information from several distant 
+      model species, interactomics and signalling pathway analysis represents an 
+      important way to better understand the functional diversity of the surprisingly 
+      high number of molecules that seem to be important for human obesity.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Neuroscience, Functional Pharmacology, Biomedical Center, Uppsala 
+      University, Uppsala, Sweden. michael.williams@neuro.uu.se
+FAU - Almén, Markus S
+AU  - Almén MS
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20120523
+PL  - Switzerland
+TA  - Cell Mol Life Sci
+JT  - Cellular and molecular life sciences : CMLS
+JID - 9705402
+RN  - 0 (Insulin)
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Animals
+MH  - Body Mass Index
+MH  - Body Weight/*genetics
+MH  - Caenorhabditis elegans/genetics
+MH  - Drosophila melanogaster/genetics
+MH  - *Genetic Predisposition to Disease
+MH  - Genome-Wide Association Study
+MH  - Genotype
+MH  - Humans
+MH  - Insulin/biosynthesis/metabolism
+MH  - Insulin Secretion
+MH  - Mice
+MH  - Models, Animal
+MH  - Obesity/*genetics/*metabolism
+MH  - Signal Transduction
+MH  - Transcription Factors/genetics/metabolism
+PMC - PMC11114734
+EDAT- 2012/05/24 06:00
+MHDA- 2013/01/09 06:00
+PMCR- 2012/05/23
+CRDT- 2012/05/24 06:00
+PHST- 2012/02/14 00:00 [received]
+PHST- 2012/05/02 00:00 [accepted]
+PHST- 2012/04/22 00:00 [revised]
+PHST- 2012/05/24 06:00 [entrez]
+PHST- 2012/05/24 06:00 [pubmed]
+PHST- 2013/01/09 06:00 [medline]
+PHST- 2012/05/23 00:00 [pmc-release]
+AID - 1022 [pii]
+AID - 10.1007/s00018-012-1022-5 [doi]
+PST - ppublish
+SO  - Cell Mol Life Sci. 2012 Nov;69(22):3819-34. doi: 10.1007/s00018-012-1022-5. Epub 
+      2012 May 23.
+
+PMID- 27029472
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170608
+LR  - 20180601
+IS  - 1479-6805 (Electronic)
+IS  - 0022-0795 (Linking)
+VI  - 229
+IP  - 3
+DP  - 2016 Jun
+TI  - The Drosophila ortholog of TMEM18 regulates insulin and glucagon-like signaling.
+PG  - 233-43
+LID - 10.1530/JOE-16-0040 [doi]
+AB  - Transmembrane protein 18 (TMEM18) is an ill-described, obesity-related gene, but 
+      few studies have explored its molecular function. We found single-nucleotide 
+      polymorphism data, suggesting that TMEM18 may be involved in the 
+      regulation/physiology of metabolic syndrome based on associations with insulin, 
+      homeostatic model assessment-β (HOMAβ), triglycerides, and blood sugar. We then 
+      found an ortholog in the Drosophila genome, knocked down Drosophila Tmem18 
+      specifically in insulin-producing cells, and tested for its effects on metabolic 
+      function. Our results suggest that TMEM18 affects substrate levels through 
+      insulin and glucagon signaling, and its downregulation induces a metabolic state 
+      resembling type 2 diabetes. This work is the first to experimentally describe the 
+      metabolic consequences of TMEM18 knockdown, and further supports its association 
+      with obesity.
+CI  - © 2016 Society for Endocrinology.
+FAU - Wiemerslage, Lyle
+AU  - Wiemerslage L
+AD  - Department of NeuroscienceFunctional Pharmacology, Uppsala University, Uppsala, 
+      Sweden lyle.wiemerslage@neuro.uu.se.
+FAU - Gohel, Priya A
+AU  - Gohel PA
+AD  - Department of NeuroscienceFunctional Pharmacology, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Maestri, Giulia
+AU  - Maestri G
+AD  - Department of NeuroscienceFunctional Pharmacology, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Hilmarsson, Torfi G
+AU  - Hilmarsson TG
+AD  - Department of NeuroscienceFunctional Pharmacology, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Mickael, Michel
+AU  - Mickael M
+AD  - Department of NeuroscienceFunctional Pharmacology, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+AD  - Department of NeuroscienceFunctional Pharmacology, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of NeuroscienceFunctional Pharmacology, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of NeuroscienceFunctional Pharmacology, Uppsala University, Uppsala, 
+      Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160330
+PL  - England
+TA  - J Endocrinol
+JT  - The Journal of endocrinology
+JID - 0375363
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Insulin)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (TMEM18 protein, human)
+RN  - 9007-92-5 (Glucagon)
+SB  - IM
+MH  - Animals
+MH  - Animals, Genetically Modified
+MH  - Drosophila Proteins/genetics/*metabolism
+MH  - Drosophila melanogaster/genetics/*metabolism
+MH  - Fat Body/metabolism
+MH  - Gene Knockdown Techniques
+MH  - Genes, Insect
+MH  - Glucagon/*metabolism
+MH  - Humans
+MH  - Insulin/*metabolism
+MH  - Larva/metabolism
+MH  - Membrane Proteins/genetics/*metabolism
+MH  - Models, Biological
+MH  - Obesity/genetics/metabolism
+MH  - Polymorphism, Single Nucleotide
+MH  - Signal Transduction
+MH  - Species Specificity
+OTO - NOTNLM
+OT  - AKH
+OT  - CG30051
+OT  - Drosophila
+OT  - SNP
+OT  - TMEM18
+OT  - fly
+OT  - glucagon
+OT  - insulin
+OT  - obesity
+EDAT- 2016/04/01 06:00
+MHDA- 2017/06/09 06:00
+CRDT- 2016/04/01 06:00
+PHST- 2016/03/21 00:00 [received]
+PHST- 2016/03/29 00:00 [accepted]
+PHST- 2016/04/01 06:00 [entrez]
+PHST- 2016/04/01 06:00 [pubmed]
+PHST- 2017/06/09 06:00 [medline]
+AID - JOE-16-0040 [pii]
+AID - 10.1530/JOE-16-0040 [doi]
+PST - ppublish
+SO  - J Endocrinol. 2016 Jun;229(3):233-43. doi: 10.1530/JOE-16-0040. Epub 2016 Mar 30.
+
+PMID- 37106835
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230430
+IS  - 2079-7737 (Print)
+IS  - 2079-7737 (Electronic)
+IS  - 2079-7737 (Linking)
+VI  - 12
+IP  - 4
+DP  - 2023 Apr 21
+TI  - Evidence for Prepulse Inhibition of Visually Evoked Motor Response in Drosophila 
+      melanogaster.
+LID - 10.3390/biology12040635 [doi]
+LID - 635
+AB  - Prepulse inhibition (PPI) is a widely investigated behavior to study the 
+      mechanisms of disorders such as anxiety, schizophrenia, and bipolar mania. PPI 
+      has been observed across various vertebrate and invertebrate species; however, it 
+      has not yet been reported in adult Drosophila melanogaster. In this study, we 
+      describe the first detection of PPI of visually evoked locomotor arousal in 
+      flies. To validate our findings, we demonstrate that PPI in Drosophila can be 
+      partially reverted by the N-methyl D-aspartate (NMDA) receptor antagonist MK-801, 
+      known for inducing sensorimotor gating deficits in rodent models. Additionally, 
+      we show that the visually evoked response can be inhibited by multiple stimuli 
+      presentation, which can also be affected by MK-801. Given the versatility of 
+      Drosophila as a model organism for genetic screening and analysis, our results 
+      suggest that high-throughput behavioral screenings of adult flies can become a 
+      valuable tool for investigating the mechanisms behind PPI.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Donzelli, Laura
+AU  - Donzelli L
+AUID- ORCID: 0000-0001-5617-5297
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Arvidsson, Nicklas
+AU  - Arvidsson N
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Moulin, Thiago C
+AU  - Moulin TC
+AUID- ORCID: 0000-0001-7811-5383
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Uppsala University, 751 24 Uppsala, Sweden.
+AD  - Department of Experimental Medical Science, Faculty of Medicine, Lund University, 
+      221 84 Lund, Sweden.
+LA  - eng
+GR  - NA/Royal Physiographic Society of Lund/
+GR  - 2019-01066/Swedish Research Council/
+GR  - FAT4BRAIN 857394/European Union's Horizon 2020/
+PT  - Journal Article
+DEP - 20230421
+PL  - Switzerland
+TA  - Biology (Basel)
+JT  - Biology
+JID - 101587988
+PMC - PMC10135638
+OTO - NOTNLM
+OT  - Drosophila melanogaster
+OT  - anxiety
+OT  - dizocilpine
+OT  - escape response
+OT  - invertebrates
+OT  - prepulse inhibition (PPI)
+OT  - schizophrenia
+OT  - sensorimotor gating
+OT  - startle
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/04/28 06:42
+MHDA- 2023/04/28 06:43
+PMCR- 2023/04/21
+CRDT- 2023/04/28 01:17
+PHST- 2023/02/15 00:00 [received]
+PHST- 2023/04/07 00:00 [revised]
+PHST- 2023/04/20 00:00 [accepted]
+PHST- 2023/04/28 06:43 [medline]
+PHST- 2023/04/28 06:42 [pubmed]
+PHST- 2023/04/28 01:17 [entrez]
+PHST- 2023/04/21 00:00 [pmc-release]
+AID - biology12040635 [pii]
+AID - biology-12-00635 [pii]
+AID - 10.3390/biology12040635 [doi]
+PST - epublish
+SO  - Biology (Basel). 2023 Apr 21;12(4):635. doi: 10.3390/biology12040635.
+
+PMID- 24830553
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150330
+LR  - 20140804
+IS  - 1460-9568 (Electronic)
+IS  - 0953-816X (Linking)
+VI  - 40
+IP  - 3
+DP  - 2014 Aug
+TI  - The Drosophila Kctd-family homologue Kctd12-like modulates male aggression and 
+      mating behaviour.
+PG  - 2513-26
+LID - 10.1111/ejn.12619 [doi]
+AB  - In Drosophila, serotonin (5-HT) regulates aggression, mating behaviour and 
+      sleep/wake behaviour through different receptors. Currently, how these various 
+      receptors are themselves regulated is still not completely understood. The 
+      KCTD12-family of proteins, which have been shown to modify G-protein-coupled 
+      receptor (GPCR) signalling in mammals, are one possibility of auxiliary proteins 
+      modulating 5-HT receptor signalling. The KCTD12-family was found to be remarkably 
+      conserved and present in species from C. elegans to humans. The Drosophila KCTD12 
+      homologue Kctd12-like (Ktl) was highly expressed in both the larval and adult 
+      CNS. By performing behavioural assays in male Drosophila, we now reveal that Ktl 
+      is required for proper male aggression and mating behaviour. Previously, it was 
+      shown that Ktl is in a complex with the Drosophila 5-HT receptor 5-HT7, and we 
+      observed that both Ktl and the 5-HT1A receptor are required in insulin-producing 
+      cells (IPCs) for proper adult male behaviour, as well as for hyperaggressive 
+      activity induced by the mammalian 5-HT1A receptor agonist 
+      8-hydroxy-2-dipropylaminotetralin-hydrobromide. Finally, we show that Ktl 
+      expression in the IPCs is necessary to regulate locomotion and normal sleep/wake 
+      patterns in Drosophila, but not the 5-HT1A receptor. Similar to what was observed 
+      with mammalian KCTD12-family members that interact physically with a GPCR 
+      receptor to regulate desensitization, in Drosophila Ktl may function in GPCR 5-HT 
+      receptor pathways to regulate their signalling, which is required for proper 
+      adult male behaviour.
+CI  - © 2014 Federation of European Neuroscience Societies and John Wiley & Sons Ltd.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Goergen, Philip
+AU  - Goergen P
+FAU - Phad, Ganesh
+AU  - Phad G
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140515
+PL  - France
+TA  - Eur J Neurosci
+JT  - The European journal of neuroscience
+JID - 8918110
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Ktl protein, Drosophila)
+RN  - 0 (Receptors, Serotonin, 5-HT1)
+SB  - IM
+MH  - Aggression/*physiology
+MH  - Animals
+MH  - Brain/metabolism
+MH  - Drosophila Proteins/chemistry/genetics/metabolism/*physiology
+MH  - Drosophila melanogaster
+MH  - Female
+MH  - Gene Expression
+MH  - Male
+MH  - Motor Activity
+MH  - Receptors, Serotonin, 5-HT1/metabolism/physiology
+MH  - Sequence Analysis, Protein
+MH  - Sexual Behavior, Animal/*physiology
+OTO - NOTNLM
+OT  - Drosophila
+OT  - GABA
+OT  - KCTD
+OT  - aggression
+OT  - serotonin
+OT  - sleep
+EDAT- 2014/05/17 06:00
+MHDA- 2015/03/31 06:00
+CRDT- 2014/05/17 06:00
+PHST- 2014/02/14 00:00 [received]
+PHST- 2014/03/24 00:00 [revised]
+PHST- 2014/04/13 00:00 [accepted]
+PHST- 2014/05/17 06:00 [entrez]
+PHST- 2014/05/17 06:00 [pubmed]
+PHST- 2015/03/31 06:00 [medline]
+AID - 10.1111/ejn.12619 [doi]
+PST - ppublish
+SO  - Eur J Neurosci. 2014 Aug;40(3):2513-26. doi: 10.1111/ejn.12619. Epub 2014 May 15.
+
+PMID- 35056136
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220128
+IS  - 1424-8247 (Print)
+IS  - 1424-8247 (Electronic)
+IS  - 1424-8247 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2022 Jan 10
+TI  - The Statin Target HMG-Coenzyme a Reductase (Hmgcr) Regulates Sleep Homeostasis in 
+      Drosophila.
+LID - 10.3390/ph15010079 [doi]
+LID - 79
+AB  - Statins, HMG Coenzyme A Reductase (HMGCR) inhibitors, are a first-line therapy, 
+      used to reduce hypercholesterolemia and the risk for cardiovascular events. While 
+      sleep disturbances are recognized as a side-effect of statin treatment, the 
+      impact of statins on sleep is under debate. Using Drosophila, we discovered a 
+      novel role for Hmgcr in sleep modulation. Loss of pan-neuronal Hmgcr expression 
+      affects fly sleep behavior, causing a decrease in sleep latency and an increase 
+      in sleep episode duration. We localized the pars intercerebralis (PI), equivalent 
+      to the mammalian hypothalamus, as the region within the fly brain requiring Hmgcr 
+      activity for proper sleep maintenance. Lack of Hmgcr expression in the PI 
+      insulin-producing cells recapitulates the sleep effects of pan-neuronal Hmgcr 
+      knockdown. Conversely, loss of Hmgcr in a different PI subpopulation, the 
+      corticotropin releasing factor (CRF) homologue-expressing neurons (DH44 neurons), 
+      increases sleep latency and decreases sleep duration. The requirement for Hmgcr 
+      activity in different neurons signifies its importance in sleep regulation. 
+      Interestingly, loss of Hmgcr in the PI does not affect circadian rhythm, 
+      suggesting that Hmgcr regulates sleep by pathways distinct from the circadian 
+      clock. Taken together, these findings suggest that Hmgcr activity in the PI is 
+      essential for proper sleep homeostasis in flies.
+FAU - Alsehli, Ahmed M
+AU  - Alsehli AM
+AD  - Department of Neuroscience, Functional Pharmacology Unit, Uppsala Biomedical 
+      Center (BMC), Uppsala University, Husargatan 3, Box 593, 75124 Uppsala, Sweden.
+AD  - Faculty of Medicine, King Abdulaziz University and Hospital, Al Ehtifalat St., 
+      Jeddah 21589, Saudi Arabia.
+FAU - Liao, Sifang
+AU  - Liao S
+AD  - Department of Neuroscience, Functional Pharmacology Unit, Uppsala Biomedical 
+      Center (BMC), Uppsala University, Husargatan 3, Box 593, 75124 Uppsala, Sweden.
+FAU - Al-Sabri, Mohamed H
+AU  - Al-Sabri MH
+AUID- ORCID: 0000-0002-9542-8653
+AD  - Department of Neuroscience, Functional Pharmacology Unit, Uppsala Biomedical 
+      Center (BMC), Uppsala University, Husargatan 3, Box 593, 75124 Uppsala, Sweden.
+FAU - Vasionis, Lukas
+AU  - Vasionis L
+AD  - Department of Neuroscience, Functional Pharmacology Unit, Uppsala Biomedical 
+      Center (BMC), Uppsala University, Husargatan 3, Box 593, 75124 Uppsala, Sweden.
+FAU - Purohit, Archana
+AU  - Purohit A
+AD  - Department of Neuroscience, Functional Pharmacology Unit, Uppsala Biomedical 
+      Center (BMC), Uppsala University, Husargatan 3, Box 593, 75124 Uppsala, Sweden.
+FAU - Behare, Neha
+AU  - Behare N
+AD  - Department of Neuroscience, Functional Pharmacology Unit, Uppsala Biomedical 
+      Center (BMC), Uppsala University, Husargatan 3, Box 593, 75124 Uppsala, Sweden.
+FAU - Clemensson, Laura E
+AU  - Clemensson LE
+AD  - Department of Neuroscience, Functional Pharmacology Unit, Uppsala Biomedical 
+      Center (BMC), Uppsala University, Husargatan 3, Box 593, 75124 Uppsala, Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Neuroscience, Functional Pharmacology Unit, Uppsala Biomedical 
+      Center (BMC), Uppsala University, Husargatan 3, Box 593, 75124 Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Neuroscience, Functional Pharmacology Unit, Uppsala Biomedical 
+      Center (BMC), Uppsala University, Husargatan 3, Box 593, 75124 Uppsala, Sweden.
+AD  - Institute for Translational Medicine and Biotechnology, Sechenov Biomedical 
+      Science and Technology Park, Sechenov First Moscow State Medical University, 
+      Trubetskay Str. 8, 119991 Moscow, Russia.
+LA  - eng
+GR  - 2019-01066/Swedish Research Council/
+PT  - Journal Article
+DEP - 20220110
+PL  - Switzerland
+TA  - Pharmaceuticals (Basel)
+JT  - Pharmaceuticals (Basel, Switzerland)
+JID - 101238453
+PMC - PMC8781969
+OTO - NOTNLM
+OT  - DH44
+OT  - Drosophila
+OT  - circadian rhythm
+OT  - corticotropin releasing factor
+OT  - hmgcr
+OT  - insulin
+OT  - mevalonate pathway
+OT  - sleep
+OT  - sleep deprivation
+OT  - statins
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/01/22 06:00
+MHDA- 2022/01/22 06:01
+PMCR- 2022/01/10
+CRDT- 2022/01/21 01:13
+PHST- 2021/10/18 00:00 [received]
+PHST- 2021/12/28 00:00 [revised]
+PHST- 2021/12/30 00:00 [accepted]
+PHST- 2022/01/21 01:13 [entrez]
+PHST- 2022/01/22 06:00 [pubmed]
+PHST- 2022/01/22 06:01 [medline]
+PHST- 2022/01/10 00:00 [pmc-release]
+AID - ph15010079 [pii]
+AID - pharmaceuticals-15-00079 [pii]
+AID - 10.3390/ph15010079 [doi]
+PST - epublish
+SO  - Pharmaceuticals (Basel). 2022 Jan 10;15(1):79. doi: 10.3390/ph15010079.
+
+PMID- 38002032
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231128
+IS  - 2227-9059 (Print)
+IS  - 2227-9059 (Electronic)
+IS  - 2227-9059 (Linking)
+VI  - 11
+IP  - 11
+DP  - 2023 Nov 12
+TI  - Drosophila as a Rapid Screening Model to Evaluate the Hypoglycemic Effects of 
+      Dipeptidyl Peptidase 4 (DPP4) Inhibitors: High Evolutionary Conservation of DPP4.
+LID - 10.3390/biomedicines11113032 [doi]
+LID - 3032
+AB  - Dipeptidyl peptidase 4 (DPP4) inhibitors, commonly known as gliptins, have been 
+      an integral part of the treatment of type 2 diabetes mellitus (T2DM) for several 
+      years. Despite their remarkable efficacy in lowering glucose levels and their 
+      compatibility with other hypoglycemic drugs, recent studies have revealed adverse 
+      effects, prompting the search for improved drugs within this category, which has 
+      required the use of animal models to verify the hypoglycemic effects of these 
+      compounds. Currently, in many countries the use of mammals is being significantly 
+      restricted, as well as cost prohibitive, and alternative in vivo approaches have 
+      been encouraged. In this sense, Drosophila has emerged as a promising alternative 
+      for several compelling reasons: it is cost-effective, offers high experimental 
+      throughput, is genetically manipulable, and allows the assessment of 
+      multigenerational effects, among other advantages. In this study, we present 
+      evidence that diprotin A, a DPP4 inhibitor, effectively reduces glucose levels in 
+      Drosophila hemolymph. This discovery underscores the potential of Drosophila as 
+      an initial screening tool for novel compounds directed against DPP4 enzymatic 
+      activity.
+FAU - Lagunas-Rangel, Francisco Alejandro
+AU  - Lagunas-Rangel FA
+AUID- ORCID: 0000-0001-7730-6452
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Liao, Sifang
+AU  - Liao S
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Trukhan, Vladimir
+AU  - Trukhan V
+AUID- ORCID: 0000-0002-4726-333X
+AD  - Advanced Molecular Technology LLC, 354 340 Moscow, Russia.
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+AD  - Department of Pharmaceutical Biosciences, Uppsala University, 751 24 Uppsala, 
+      Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, 751 24 Uppsala, Sweden.
+LA  - eng
+GR  - 2022-00562/Swedish Research Council/
+PT  - Journal Article
+DEP - 20231112
+PL  - Switzerland
+TA  - Biomedicines
+JT  - Biomedicines
+JID - 101691304
+PMC - PMC10669173
+OTO - NOTNLM
+OT  - alternative animal model
+OT  - diabetes
+OT  - glucose levels
+OT  - new drugs
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/11/25 12:43
+MHDA- 2023/11/25 12:44
+PMCR- 2023/11/12
+CRDT- 2023/11/25 01:08
+PHST- 2023/10/11 00:00 [received]
+PHST- 2023/11/09 00:00 [revised]
+PHST- 2023/11/10 00:00 [accepted]
+PHST- 2023/11/25 12:44 [medline]
+PHST- 2023/11/25 12:43 [pubmed]
+PHST- 2023/11/25 01:08 [entrez]
+PHST- 2023/11/12 00:00 [pmc-release]
+AID - biomedicines11113032 [pii]
+AID - biomedicines-11-03032 [pii]
+AID - 10.3390/biomedicines11113032 [doi]
+PST - epublish
+SO  - Biomedicines. 2023 Nov 12;11(11):3032. doi: 10.3390/biomedicines11113032.
+
+PMID- 27531979
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20160817
+LR  - 20200930
+IS  - 1663-4365 (Print)
+IS  - 1663-4365 (Electronic)
+IS  - 1663-4365 (Linking)
+VI  - 8
+DP  - 2016
+TI  - Recurrent Sleep Fragmentation Induces Insulin and Neuroprotective Mechanisms in 
+      Middle-Aged Flies.
+PG  - 180
+LID - 10.3389/fnagi.2016.00180 [doi]
+LID - 180
+AB  - Lack of quality sleep increases central nervous system oxidative stress and 
+      impairs removal of neurotoxic soluble metabolites from brain parenchyma. During 
+      aging poor sleep quality, caused by sleep fragmentation, increases central 
+      nervous system cellular stress. Currently, it is not known how organisms offset 
+      age-related cytotoxic metabolite increases in order to safeguard neuronal 
+      survival. Furthermore, it is not understood how age and sleep fragmentation 
+      interact to affect oxidative stress protection pathways. We demonstrate sleep 
+      fragmentation increases systems that protect against oxidative damage and 
+      neuroprotective endoplasmic reticulum molecular chaperones, as well as neuronal 
+      insulin and dopaminergic expression in middle-aged Drosophila males. 
+      Interestingly, even after sleep recovery the expression of these genes was still 
+      upregulated in middle-aged flies. Finally, sleep fragmentation generates higher 
+      levels of reactive oxygen species (ROS) in middle-aged flies and after sleep 
+      recovery these levels remain significantly higher than in young flies. The fact 
+      that neuroprotective pathways remain upregulated in middle-aged flies beyond 
+      sleep fragmentation suggests it might represent a strong stressor for the brain 
+      during later life.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University Uppsala, 
+      Sweden.
+FAU - Perland, Emelie
+AU  - Perland E
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University Uppsala, 
+      Sweden.
+FAU - Eriksson, Mikaela M
+AU  - Eriksson MM
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University Uppsala, 
+      Sweden.
+FAU - Carlsson, Josef
+AU  - Carlsson J
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University Uppsala, 
+      Sweden.
+FAU - Erlandsson, Daniel
+AU  - Erlandsson D
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University Uppsala, 
+      Sweden.
+FAU - Laan, Loora
+AU  - Laan L
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University Uppsala, 
+      Sweden.
+FAU - Mahebali, Tabusi
+AU  - Mahebali T
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University Uppsala, 
+      Sweden.
+FAU - Potter, Ella
+AU  - Potter E
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University Uppsala, 
+      Sweden.
+FAU - Frediksson, Robert
+AU  - Frediksson R
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University Uppsala, 
+      Sweden.
+FAU - Benedict, Christian
+AU  - Benedict C
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University Uppsala, 
+      Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University Uppsala, 
+      Sweden.
+LA  - eng
+PT  - Journal Article
+DEP - 20160802
+PL  - Switzerland
+TA  - Front Aging Neurosci
+JT  - Frontiers in aging neuroscience
+JID - 101525824
+PMC - PMC4969361
+OTO - NOTNLM
+OT  - Nrf2
+OT  - dopamine
+OT  - glucagon
+OT  - insulin
+OT  - metabolism
+OT  - molecular chaperone
+OT  - sleep
+EDAT- 2016/08/18 06:00
+MHDA- 2016/08/18 06:01
+PMCR- 2016/01/01
+CRDT- 2016/08/18 06:00
+PHST- 2016/04/07 00:00 [received]
+PHST- 2016/07/13 00:00 [accepted]
+PHST- 2016/08/18 06:00 [entrez]
+PHST- 2016/08/18 06:00 [pubmed]
+PHST- 2016/08/18 06:01 [medline]
+PHST- 2016/01/01 00:00 [pmc-release]
+AID - 10.3389/fnagi.2016.00180 [doi]
+PST - epublish
+SO  - Front Aging Neurosci. 2016 Aug 2;8:180. doi: 10.3389/fnagi.2016.00180. 
+      eCollection 2016.
+
+PMID- 36428957
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221129
+LR  - 20240907
+IS  - 2073-4409 (Electronic)
+IS  - 2073-4409 (Linking)
+VI  - 11
+IP  - 22
+DP  - 2022 Nov 8
+TI  - Statins Induce Locomotion and Muscular Phenotypes in Drosophila melanogaster That 
+      Are Reminiscent of Human Myopathy: Evidence for the Role of the Chloride Channel 
+      Inhibition in the Muscular Phenotypes.
+LID - 10.3390/cells11223528 [doi]
+LID - 3528
+AB  - The underlying mechanisms for statin-induced myopathy (SIM) are still equivocal. 
+      In this study, we employ Drosophila melanogaster to dissect possible underlying 
+      mechanisms for SIM. We observe that chronic fluvastatin treatment causes reduced 
+      general locomotion activity and climbing ability. In addition, transmission 
+      microscopy of dissected skeletal muscles of fluvastatin-treated flies reveals 
+      strong myofibrillar damage, including increased sarcomere lengths and Z-line 
+      streaming, which are reminiscent of myopathy, along with fragmented mitochondria 
+      of larger sizes, most of which are round-like shapes. Furthermore, chronic 
+      fluvastatin treatment is associated with impaired lipid metabolism and insulin 
+      signalling. Mechanistically, knockdown of the statin-target Hmgcr in the skeletal 
+      muscles recapitulates fluvastatin-induced mitochondrial phenotypes and lowered 
+      general locomotion activity; however, it was not sufficient to alter sarcomere 
+      length or elicit myofibrillar damage compared to controls or fluvastatin 
+      treatment. Moreover, we found that fluvastatin treatment was associated with 
+      reduced expression of the skeletal muscle chloride channel, ClC-a (Drosophila 
+      homolog of CLCN1), while selective knockdown of skeletal muscle ClC-a also 
+      recapitulated fluvastatin-induced myofibril damage and increased sarcomere 
+      lengths. Surprisingly, exercising fluvastatin-treated flies restored ClC-a 
+      expression and normalized sarcomere lengths, suggesting that fluvastatin-induced 
+      myofibrillar phenotypes could be linked to lowered ClC-a expression. Taken 
+      together, these results may indicate the potential role of ClC-a inhibition in 
+      statin-associated muscular phenotypes. This study underlines the importance of 
+      Drosophila melanogaster as a powerful model system for elucidating the locomotion 
+      and muscular phenotypes, promoting a better understanding of the molecular 
+      mechanisms underlying SIM.
+FAU - Al-Sabri, Mohamed H
+AU  - Al-Sabri MH
+AUID- ORCID: 0000-0002-9542-8653
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+AD  - Department of Pharmaceutical Biosciences, Uppsala University, 751 24 Uppsala, 
+      Sweden.
+FAU - Behare, Neha
+AU  - Behare N
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+FAU - Alsehli, Ahmed M
+AU  - Alsehli AM
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+AD  - Faculty of Medicine, King Abdulaziz University and Hospital, Al Ehtifalat St., 
+      Jeddah 21589, Saudi Arabia.
+FAU - Berkins, Samuel
+AU  - Berkins S
+AUID- ORCID: 0000-0002-5055-5181
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+FAU - Arora, Aadeya
+AU  - Arora A
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+FAU - Antoniou, Eirini
+AU  - Antoniou E
+AUID- ORCID: 0000-0002-3616-9049
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+FAU - Moysiadou, Eleni I
+AU  - Moysiadou EI
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+FAU - Anantha-Krishnan, Sowmya
+AU  - Anantha-Krishnan S
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+FAU - Cosmen, Patricia D
+AU  - Cosmen PD
+AUID- ORCID: 0000-0003-1530-4587
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+FAU - Vikner, Johanna
+AU  - Vikner J
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+FAU - Moulin, Thiago C
+AU  - Moulin TC
+AUID- ORCID: 0000-0001-7811-5383
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+AD  - Faculty of Medicine, Department of Experimental Medical Science, Lund University, 
+      Sölvegatan 19, BMC F10, 221 84 Lund, Sweden.
+FAU - Ammar, Nourhene
+AU  - Ammar N
+AD  - Institut de Génétique et Développement de Rennes (IGDR), Université de Rennes, 
+      CNRS, UMR6290, 35065 Rennes, France.
+FAU - Boukhatmi, Hadi
+AU  - Boukhatmi H
+AUID- ORCID: 0000-0002-0330-3344
+AD  - Institut de Génétique et Développement de Rennes (IGDR), Université de Rennes, 
+      CNRS, UMR6290, 35065 Rennes, France.
+FAU - Clemensson, Laura E
+AU  - Clemensson LE
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+FAU - Rask-Andersen, Mathias
+AU  - Rask-Andersen M
+AD  - Department of Immunology, Genetics and Pathology, Uppsala University, 752 37 
+      Uppsala, Sweden.
+FAU - Mwinyi, Jessica
+AU  - Mwinyi J
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+AD  - Department of Pharmaceutical Biosciences, Uppsala University, 751 24 Uppsala, 
+      Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24 
+      Uppsala, Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20221108
+PL  - Switzerland
+TA  - Cells
+JT  - Cells
+JID - 101600052
+RN  - 0 (Hydroxymethylglutaryl-CoA Reductase Inhibitors)
+RN  - 0 (Chloride Channels)
+RN  - 4L066368AS (Fluvastatin)
+SB  - IM
+MH  - Animals
+MH  - Humans
+MH  - Drosophila melanogaster/metabolism
+MH  - *Hydroxymethylglutaryl-CoA Reductase Inhibitors/adverse effects
+MH  - Chloride Channels/metabolism
+MH  - Fluvastatin/adverse effects
+MH  - *Muscular Diseases/genetics
+MH  - Drosophila/metabolism
+MH  - Locomotion
+MH  - Phenotype
+PMC - PMC9688544
+OTO - NOTNLM
+OT  - CLC-1
+OT  - ClC-a
+OT  - Drosophila melanogaster
+OT  - Hmgcr
+OT  - PKCtheta (PKCθ)
+OT  - Pkcdelta (Pkcδ)
+OT  - chelerythrine
+OT  - fluvastatin
+OT  - lipotoxicity
+OT  - locomotion
+OT  - mitochondrial dysfunction
+OT  - myopathy
+OT  - sarcomere
+OT  - skeletal muscle chloride channel
+OT  - statin-induced myopathy
+OT  - statins
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/11/27 06:00
+MHDA- 2022/11/30 06:00
+PMCR- 2022/11/08
+CRDT- 2022/11/26 01:06
+PHST- 2022/08/25 00:00 [received]
+PHST- 2022/10/17 00:00 [revised]
+PHST- 2022/11/01 00:00 [accepted]
+PHST- 2022/11/26 01:06 [entrez]
+PHST- 2022/11/27 06:00 [pubmed]
+PHST- 2022/11/30 06:00 [medline]
+PHST- 2022/11/08 00:00 [pmc-release]
+AID - cells11223528 [pii]
+AID - cells-11-03528 [pii]
+AID - 10.3390/cells11223528 [doi]
+PST - epublish
+SO  - Cells. 2022 Nov 8;11(22):3528. doi: 10.3390/cells11223528.
+
+PMID- 36672700
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230201
+IS  - 2227-9059 (Print)
+IS  - 2227-9059 (Electronic)
+IS  - 2227-9059 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2023 Jan 12
+TI  - Effects of Transient Administration of the NMDA Receptor Antagonist MK-801 in 
+      Drosophila melanogaster Activity, Sleep, and Negative Geotaxis.
+LID - 10.3390/biomedicines11010192 [doi]
+LID - 192
+AB  - MK-801, also called dizocilpine, is an N-methyl-D-aspartate (NMDA) receptor 
+      antagonist widely used in animal research to model schizophrenia-like phenotypes. 
+      Although its effects in rodents are well characterised, little is known about the 
+      outcomes of this drug in other organisms. In this study, we characterise the 
+      effects of MK-801 on the locomotion, sleep, and negative geotaxis of the fruit 
+      fly Drosophila melanogaster. We observed that acute (24 h) and chronic (7 days) 
+      administration of MK-801 enhanced negative geotaxis activity in the forced 
+      climbing assay for all tested concentrations (0.15 mM, 0.3 mM, and 0.6 mM). 
+      Moreover, acute administration, but not chronic, increased the flies' locomotion 
+      in a dose-dependent matter. Finally, average sleep duration was not affected by 
+      any concentration or administration protocol. Our results indicate that acute 
+      MK-801 could be used to model hyperactivity phenotypes in Drosophila 
+      melanogaster. Overall, this study provides further evidence that the NMDA 
+      receptor system is functionally conserved in flies, suggesting the usefulness of 
+      this model to investigate several phenotypes as a complement and replacement of 
+      the rodent models within drug discovery.
+FAU - Moulin, Thiago C
+AU  - Moulin TC
+AUID- ORCID: 0000-0001-7811-5383
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Uppsala University, 751 24 Uppsala, Sweden.
+AD  - Department of Experimental Medical Science, Faculty of Medicine, Lund University, 
+      221 84 Lund, Sweden.
+FAU - Stojanovic, Tijana
+AU  - Stojanovic T
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Rajesh, Rasika P
+AU  - Rajesh RP
+AUID- ORCID: 0000-0002-2807-6985
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Pareek, Tirusha
+AU  - Pareek T
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Donzelli, Laura
+AU  - Donzelli L
+AUID- ORCID: 0000-0001-5617-5297
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Uppsala University, 751 24 Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Uppsala University, 751 24 Uppsala, Sweden.
+LA  - eng
+GR  - FB20-0102/Gunvor och Josef Anérs stiftelse/
+GR  - Ingegerd Bergh and Kungl Vetenskapssamh stipends/Uppsala University/
+GR  - NA/Royal Physiographic Society Lund/
+GR  - 2019-01066/Swedish Research Council/
+GR  - 857394/European Union's Horizon 2020/
+PT  - Journal Article
+DEP - 20230112
+PL  - Switzerland
+TA  - Biomedicines
+JT  - Biomedicines
+JID - 101691304
+PMC - PMC9855773
+OTO - NOTNLM
+OT  - circadian activity
+OT  - climbing behavior
+OT  - dizocilpine
+OT  - fruit fly
+OT  - glutamate receptor
+OT  - invertebrates
+OT  - psychiatric models
+OT  - translational models
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/01/22 06:00
+MHDA- 2023/01/22 06:01
+PMCR- 2023/01/12
+CRDT- 2023/01/21 01:14
+PHST- 2022/12/05 00:00 [received]
+PHST- 2023/01/05 00:00 [revised]
+PHST- 2023/01/10 00:00 [accepted]
+PHST- 2023/01/21 01:14 [entrez]
+PHST- 2023/01/22 06:00 [pubmed]
+PHST- 2023/01/22 06:01 [medline]
+PHST- 2023/01/12 00:00 [pmc-release]
+AID - biomedicines11010192 [pii]
+AID - biomedicines-11-00192 [pii]
+AID - 10.3390/biomedicines11010192 [doi]
+PST - epublish
+SO  - Biomedicines. 2023 Jan 12;11(1):192. doi: 10.3390/biomedicines11010192.
+
+PMID- 32179671
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200814
+LR  - 20200916
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Print)
+IS  - 0027-8424 (Linking)
+VI  - 117
+IP  - 13
+DP  - 2020 Mar 31
+TI  - CCAP regulates feeding behavior via the NPF pathway in Drosophila adults.
+PG  - 7401-7408
+LID - 10.1073/pnas.1914037117 [doi]
+AB  - The intake of macronutrients is crucial for the fitness of any animal and is 
+      mainly regulated by peripheral signals to the brain. How the brain receives and 
+      translates these peripheral signals or how these interactions lead to changes in 
+      feeding behavior is not well-understood. We discovered that 2 crustacean 
+      cardioactive peptide (CCAP)-expressing neurons in Drosophila adults regulate 
+      feeding behavior and metabolism. Notably, loss of CCAP, or knocking down the CCAP 
+      receptor (CCAP-R) in 2 dorsal median neurons, inhibits the release of 
+      neuropeptide F (NPF), which regulates feeding behavior. Furthermore, under 
+      starvation conditions, flies normally have an increased sensitivity to sugar; 
+      however, loss of CCAP, or CCAP-R in 2 dorsal median NPF neurons, inhibited sugar 
+      sensitivity in satiated and starved flies. Separate from its regulation of NPF 
+      signaling, the CCAP peptide also regulates triglyceride levels. Additionally, 
+      genetic and optogenetic studies demonstrate that CCAP signaling is necessary and 
+      sufficient to stimulate a reflexive feeding behavior, the proboscis extension 
+      reflex (PER), elicited when external food cues are interpreted as palatable. 
+      Dopaminergic signaling was also sufficient to induce a PER. On the other hand, 
+      although necessary, NPF neurons were not able to induce a PER. These data 
+      illustrate that the CCAP peptide is a central regulator of feeding behavior and 
+      metabolism in adult flies, and that NPF neurons have an important regulatory role 
+      within this system.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AUID- ORCID: 0000-0003-4622-1207
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden; michael.williams@neuro.uu.se.
+FAU - Akram, Mehwish
+AU  - Akram M
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+AD  - School of Biological Sciences, University of the Punjab, 54590 Lahore, Pakistan.
+FAU - Barkauskaite, Deimante
+AU  - Barkauskaite D
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+FAU - Patil, Sourabh
+AU  - Patil S
+AUID- ORCID: 0000-0002-2784-2561
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+FAU - Kotsidou, Eirini
+AU  - Kotsidou E
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+FAU - Kheder, Sania
+AU  - Kheder S
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+FAU - Vitale, Giovanni
+AU  - Vitale G
+AUID- ORCID: 0000-0002-4108-2861
+AD  - Department of Life Sciences, University of Modena and Reggio Emilia (RE), 41125 
+      Modena, Italy.
+FAU - Filaferro, Monica
+AU  - Filaferro M
+AD  - Department of Biomedical, Metabolic and Neural Sciences, University of Modena and 
+      RE, 41125 Modena, Italy.
+FAU - Blemings, Simone W
+AU  - Blemings SW
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+FAU - Maestri, Giulia
+AU  - Maestri G
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+FAU - Hazim, Noor
+AU  - Hazim N
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+FAU - Vergoni, Anna Valeria
+AU  - Vergoni AV
+AUID- ORCID: 0000-0003-2580-4163
+AD  - Department of Biomedical, Metabolic and Neural Sciences, University of Modena and 
+      RE, 41125 Modena, Italy.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+AD  - Institute for Translational Medicine and Biotechnology, Sechenov First Moscow 
+      State Medical University, Moscow 119435, Russia.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200316
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Neuropeptides)
+RN  - 0 (crustacean cardioactive peptide)
+RN  - 142191-57-9 (neuropeptide F)
+RN  - VTD58H1Z2X (Dopamine)
+SB  - IM
+MH  - Animals
+MH  - Brain/metabolism
+MH  - Circadian Rhythm/physiology
+MH  - Dopamine/metabolism
+MH  - Drosophila Proteins/genetics/metabolism
+MH  - Drosophila melanogaster/genetics/metabolism
+MH  - Feeding Behavior/*physiology
+MH  - Neurons/metabolism
+MH  - Neuropeptides/genetics/*metabolism
+MH  - Signal Transduction
+MH  - Starvation/metabolism
+PMC - PMC7132124
+OTO - NOTNLM
+OT  - dopamine
+OT  - feeding behavior
+OT  - hypothalamus
+OT  - metabolism
+COIS- The authors declare no competing interest.
+EDAT- 2020/03/18 06:00
+MHDA- 2020/08/15 06:00
+PMCR- 2020/09/16
+CRDT- 2020/03/18 06:00
+PHST- 2020/03/18 06:00 [pubmed]
+PHST- 2020/08/15 06:00 [medline]
+PHST- 2020/03/18 06:00 [entrez]
+PHST- 2020/09/16 00:00 [pmc-release]
+AID - 1914037117 [pii]
+AID - 201914037 [pii]
+AID - 10.1073/pnas.1914037117 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2020 Mar 31;117(13):7401-7408. doi: 
+      10.1073/pnas.1914037117. Epub 2020 Mar 16.
+
+PMID- 25187989
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151106
+LR  - 20211021
+IS  - 1553-7404 (Electronic)
+IS  - 1553-7390 (Print)
+IS  - 1553-7390 (Linking)
+VI  - 10
+IP  - 9
+DP  - 2014 Sep
+TI  - Obesity-linked homologues TfAP-2 and Twz establish meal frequency in Drosophila 
+      melanogaster.
+PG  - e1004499
+LID - 10.1371/journal.pgen.1004499 [doi]
+LID - e1004499
+AB  - In all animals managing the size of individual meals and frequency of feeding is 
+      crucial for metabolic homeostasis. In the current study we demonstrate that the 
+      noradrenalin analogue octopamine and the cholecystokinin (CCK) homologue 
+      Drosulfakinin (Dsk) function downstream of TfAP-2 and Tiwaz (Twz) to control the 
+      number of meals in adult flies. Loss of TfAP-2 or Twz in octopaminergic neurons 
+      increased the size of individual meals, while overexpression of TfAP-2 
+      significantly decreased meal size and increased feeding frequency. Of note, our 
+      study reveals that TfAP-2 and Twz regulate octopamine signaling to initiate 
+      feeding; then octopamine, in a negative feedback loop, induces expression of Dsk 
+      to inhibit consummatory behavior. Intriguingly, we found that the mouse TfAP-2 
+      and Twz homologues, AP-2β and Kctd15, co-localize in areas of the brain known to 
+      regulate feeding behavior and reward, and a proximity ligation assay (PLA) 
+      demonstrated that AP-2β and Kctd15 interact directly in a mouse 
+      hypothalamus-derived cell line. Finally, we show that in this mouse hypothalamic 
+      cell line AP-2β and Kctd15 directly interact with Ube2i, a mouse sumoylation 
+      enzyme, and that AP-2β may itself be sumoylated. Our study reveals how two 
+      obesity-linked homologues regulate metabolic homeostasis by modulating 
+      consummatory behavior.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Goergen, Philip
+AU  - Goergen P
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Rajendran, Jayasimman
+AU  - Rajendran J
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Zheleznyakova, Galina
+AU  - Zheleznyakova G
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Hägglund, Maria G
+AU  - Hägglund MG
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Perland, Emelie
+AU  - Perland E
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Bagchi, Sonchita
+AU  - Bagchi S
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Kalogeropoulou, Argyro
+AU  - Kalogeropoulou A
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Khan, Zaid
+AU  - Khan Z
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, Uppsala, 
+      Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140904
+PL  - United States
+TA  - PLoS Genet
+JT  - PLoS genetics
+JID - 101239074
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Potassium Channels)
+RN  - 0 (Transcription Factor AP-2)
+RN  - 14O50WS8JD (Octopamine)
+SB  - IM
+MH  - Animals
+MH  - Cell Line
+MH  - Drosophila Proteins/*metabolism
+MH  - Drosophila melanogaster/*metabolism/*physiology
+MH  - Feedback
+MH  - Feeding Behavior/*physiology
+MH  - Homeostasis/physiology
+MH  - Hypothalamus/metabolism
+MH  - Male
+MH  - Meals/*physiology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Neurons/metabolism
+MH  - Obesity/*metabolism/*physiopathology
+MH  - Octopamine/metabolism
+MH  - Potassium Channels/metabolism
+MH  - Transcription Factor AP-2/metabolism
+PMC - PMC4154645
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2014/09/05 06:00
+MHDA- 2015/11/07 06:00
+PMCR- 2014/09/04
+CRDT- 2014/09/05 06:00
+PHST- 2013/12/03 00:00 [received]
+PHST- 2014/05/27 00:00 [accepted]
+PHST- 2014/09/05 06:00 [entrez]
+PHST- 2014/09/05 06:00 [pubmed]
+PHST- 2015/11/07 06:00 [medline]
+PHST- 2014/09/04 00:00 [pmc-release]
+AID - PGENETICS-D-13-03280 [pii]
+AID - 10.1371/journal.pgen.1004499 [doi]
+PST - epublish
+SO  - PLoS Genet. 2014 Sep 4;10(9):e1004499. doi: 10.1371/journal.pgen.1004499. 
+      eCollection 2014 Sep.
+
+PMID- 34201304
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210714
+IS  - 2077-0375 (Print)
+IS  - 2077-0375 (Electronic)
+IS  - 2077-0375 (Linking)
+VI  - 11
+IP  - 6
+DP  - 2021 Jun 8
+TI  - Multidrug Resistance Like Protein 1 Activity in Malpighian Tubules Regulates 
+      Lipid Homeostasis in Drosophila.
+LID - 10.3390/membranes11060432 [doi]
+LID - 432
+AB  - Multidrug resistance proteins (MRPs), members of the ATP-binding cassette 
+      transporter (ABC transporter) family, are pivotal for transporting endo- and 
+      xenobiotics, which confer resistance to anticancer agents and contribute to the 
+      clearance of oxidative products. However, their function in many biological 
+      processes is still unclear. We investigated the role of an evolutionarily 
+      conserved MRP in metabolic homeostasis by knocking down the expression of 
+      Drosophila multidrug-resistance like protein 1 (MRP) in several tissues involved 
+      in regulating metabolism, including the gut, fat body, and Malpighian tubules. 
+      Interestingly, only suppression of MRP in the Malpighian tubules, the functional 
+      equivalent to the human kidney, was sufficient to cause abnormal lipid 
+      accumulation and disrupt feeding behavior. Furthermore, reduced Malpighian tubule 
+      MRP expression resulted in increased Hr96 (homolog of human pregnane X receptor) 
+      expression. Hr96 is known to play a role in detoxification and lipid metabolism 
+      processes. Reduced expression of MRP in the Malpighian tubules also conveyed 
+      resistance to oxidative stress, as well as reduced normal levels of reactive 
+      oxygen species in adult flies. This study reveals that an evolutionarily 
+      conserved MRP is required in Drosophila Malpighian tubules for proper metabolic 
+      homeostasis.
+FAU - Liu, Wen
+AU  - Liu W
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+FAU - Cao, Hao
+AU  - Cao H
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+FAU - Kimari, Moses
+AU  - Kimari M
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+FAU - Maronitis, Georgios
+AU  - Maronitis G
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 751 24 
+      Uppsala, Sweden.
+AD  - Institute for Translational Medicine and Biotechnology, Sechenov First Moscow 
+      State Medical University, 119991 Moscow, Russia.
+LA  - eng
+GR  - 20 0990 Pj/Cancerfonden/
+GR  - 2018-00738/Svenska Forskningsrådet Formas/
+GR  - 2018-03238/Vetenskapsrådet/
+GR  - 857394/Horizon 2020/
+PT  - Journal Article
+DEP - 20210608
+PL  - Switzerland
+TA  - Membranes (Basel)
+JT  - Membranes
+JID - 101577807
+PMC - PMC8229909
+OTO - NOTNLM
+OT  - ABCC1
+OT  - kidney
+OT  - lipid metabolism
+OT  - oxidative stress
+OT  - xenobiotic
+COIS- The authors declare that they have no conflict of interest.
+EDAT- 2021/07/03 06:00
+MHDA- 2021/07/03 06:01
+PMCR- 2021/06/08
+CRDT- 2021/07/02 01:10
+PHST- 2021/04/30 00:00 [received]
+PHST- 2021/05/30 00:00 [revised]
+PHST- 2021/06/05 00:00 [accepted]
+PHST- 2021/07/02 01:10 [entrez]
+PHST- 2021/07/03 06:00 [pubmed]
+PHST- 2021/07/03 06:01 [medline]
+PHST- 2021/06/08 00:00 [pmc-release]
+AID - membranes11060432 [pii]
+AID - membranes-11-00432 [pii]
+AID - 10.3390/membranes11060432 [doi]
+PST - epublish
+SO  - Membranes (Basel). 2021 Jun 8;11(6):432. doi: 10.3390/membranes11060432.
+
+PMID- 38336990
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240214
+LR  - 20240214
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2024 Feb 9
+TI  - Fluvastatin-induced myofibrillar damage is associated with elevated ROS, and 
+      impaired fatty acid oxidation, and is preceded by mitochondrial morphological 
+      changes.
+PG  - 3338
+LID - 10.1038/s41598-024-53446-w [doi]
+LID - 3338
+AB  - Previously, we showed that fluvastatin treatment induces myofibrillar damage and 
+      mitochondrial phenotypes in the skeletal muscles of Drosophila. However, the 
+      sequential occurrence of mitochondrial phenotypes and myofibril damage remains 
+      elusive. To address this, we treated flies with fluvastatin for two and five days 
+      and examined their thorax flight muscles using confocal microscopy. In the 
+      two-day fluvastatin group, compared to the control, thorax flight muscles 
+      exhibited mitochondrial morphological changes, including fragmentation, rounding 
+      up and reduced content, while myofibrils remained organized in parallel. In the 
+      five-day fluvastatin treatment, not only did mitochondrial morphological changes 
+      become more pronounced, but myofibrils became severely disorganized with 
+      significantly increased thickness and spacing, along with myofilament 
+      abnormalities, suggesting myofibril damage. These findings suggest that 
+      fluvastatin-induced mitochondrial changes precede myofibril damage. Moreover, in 
+      the five-day fluvastatin group, the mitochondria demonstrated elevated H(2)O(2) 
+      and impaired fatty acid oxidation compared to the control group, indicating 
+      potential mitochondrial dysfunction. Surprisingly, knocking down Hmgcr 
+      (Drosophila homolog of HMGCR) showed normal mitochondrial respiration in all 
+      parameters compared to controls or five-day fluvastatin treatment, which suggests 
+      that fluvastatin-induced mitochondrial dysfunction might be independent of Hmgcr 
+      inhibition. These results provide insights into the sequential occurrence of 
+      mitochondria and myofibril damage in statin-induced myopathy for future studies.
+CI  - © 2024. The Author(s).
+FAU - Al-Sabri, Mohamed H
+AU  - Al-Sabri MH
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24, 
+      Uppsala, Sweden. mohamed.alsabri@uu.se.
+AD  - Department of Pharmaceutical Biosciences, Uppsala University, 751 24, Uppsala, 
+      Sweden. mohamed.alsabri@uu.se.
+FAU - Ammar, Nourhane
+AU  - Ammar N
+AD  - Institut de Génétique Et Développement de Rennes (IGDR), Université de Rennes, 
+      CNRS, UMR6290, 35065, Rennes, France.
+FAU - Korzh, Stanislava
+AU  - Korzh S
+AD  - Latvian Institute of Organic Synthesis, Aizkraukles 21, Riga, 1006, Latvia.
+FAU - Alsehli, Ahmed M
+AU  - Alsehli AM
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24, 
+      Uppsala, Sweden.
+AD  - Faculty of Medicine, King Abdulaziz University and Hospital, Al Ehtifalat St., 
+      21589, Jeddah, Saudi Arabia.
+FAU - Hosseini, Kimia
+AU  - Hosseini K
+AD  - Department of Pharmaceutical Biosciences, Uppsala University, 751 24, Uppsala, 
+      Sweden.
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+AD  - Department of Pharmaceutical Biosciences, Uppsala University, 751 24, Uppsala, 
+      Sweden.
+FAU - Mwinyi, Jessica
+AU  - Mwinyi J
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24, 
+      Uppsala, Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24, 
+      Uppsala, Sweden.
+FAU - Boukhatmi, Hadi
+AU  - Boukhatmi H
+AD  - Institut de Génétique Et Développement de Rennes (IGDR), Université de Rennes, 
+      CNRS, UMR6290, 35065, Rennes, France.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Surgical Sciences, Division of Functional Pharmacology and 
+      Neuroscience, Biomedical Center (BMC), Uppsala University, Husargatan 3, 751 24, 
+      Uppsala, Sweden. helgi.schioth@neuro.uu.se.
+LA  - eng
+GR  - 2019-01066/Vetenskapsrådet/
+GR  - 2019-01066/Vetenskapsrådet/
+GR  - 2019-01066/Vetenskapsrådet/
+GR  - 23108/AFM-Telethon trampoline grant/
+GR  - 23108/AFM-Telethon trampoline grant/
+PT  - Journal Article
+DEP - 20240209
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 4L066368AS (Fluvastatin)
+RN  - 0 (Reactive Oxygen Species)
+RN  - BBX060AN9V (Hydrogen Peroxide)
+RN  - 0 (Fatty Acids, Monounsaturated)
+SB  - IM
+MH  - Animals
+MH  - Fluvastatin
+MH  - Reactive Oxygen Species
+MH  - *Hydrogen Peroxide
+MH  - Mitochondria
+MH  - Muscle, Skeletal
+MH  - Drosophila
+MH  - *Mitochondrial Diseases
+MH  - Fatty Acids, Monounsaturated/adverse effects
+PMC - PMC10858229
+COIS- The authors declare no competing interests.
+EDAT- 2024/02/10 10:49
+MHDA- 2024/02/10 22:54
+PMCR- 2024/02/09
+CRDT- 2024/02/09 23:58
+PHST- 2023/12/05 00:00 [received]
+PHST- 2024/01/31 00:00 [accepted]
+PHST- 2024/02/10 22:54 [medline]
+PHST- 2024/02/10 10:49 [pubmed]
+PHST- 2024/02/09 23:58 [entrez]
+PHST- 2024/02/09 00:00 [pmc-release]
+AID - 10.1038/s41598-024-53446-w [pii]
+AID - 53446 [pii]
+AID - 10.1038/s41598-024-53446-w [doi]
+PST - epublish
+SO  - Sci Rep. 2024 Feb 9;14(1):3338. doi: 10.1038/s41598-024-53446-w.
+
+PMID- 24488496
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140818
+LR  - 20140303
+IS  - 1573-3297 (Electronic)
+IS  - 0001-8244 (Linking)
+VI  - 44
+IP  - 2
+DP  - 2014 Mar
+TI  - The Drosophila small GTPase Rac2 is required for normal feeding and mating 
+      behaviour.
+PG  - 155-64
+LID - 10.1007/s10519-014-9643-0 [doi]
+AB  - All multicellular organisms require the ability to regulate bodily processes in 
+      order to maintain a stable condition, which necessitates fluctuations in internal 
+      metabolics, as well as modifications of outward behaviour. Understanding the 
+      genetics behind this modulation is important as a general model for the metabolic 
+      modification of behaviour. This study demonstrates that the activity of the small 
+      GTPase Rac2 is required in Drosophila for the proper regulation of lipid storage 
+      and feeding behaviour, as well as aggression and mating behaviours. Rac2 mutant 
+      males and females are susceptible to starvation and contain considerably less 
+      lipids than controls. Furthermore, Rac2 mutants also have disrupted feeding 
+      behaviour, eating fewer but larger meals than controls. Intriguingly, Rac2 mutant 
+      males rarely initiate aggressive behaviour and display significantly increased 
+      levels of courtship behaviour towards other males and mated females. From these 
+      results we conclude that Rac2 has a central role in regulating the Drosophila 
+      homeostatic system.
+FAU - Goergen, Philip
+AU  - Goergen P
+AD  - Institute of Biological and Environmental Sciences, University of Aberdeen, 
+      Aberdeen, UK.
+FAU - Kasagiannis, Anna
+AU  - Kasagiannis A
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+FAU - Williams, Michael J
+AU  - Williams MJ
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140201
+PL  - United States
+TA  - Behav Genet
+JT  - Behavior genetics
+JID - 0251711
+RN  - EC 3.6.1.- (GTP Phosphohydrolases)
+SB  - IM
+MH  - Aggression/physiology
+MH  - Animals
+MH  - Animals, Genetically Modified
+MH  - Drosophila melanogaster/*physiology
+MH  - Feeding Behavior/*physiology
+MH  - Female
+MH  - GTP Phosphohydrolases/genetics/*metabolism
+MH  - Male
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - Sexual Behavior, Animal/*physiology
+EDAT- 2014/02/04 06:00
+MHDA- 2014/08/19 06:00
+CRDT- 2014/02/04 06:00
+PHST- 2013/07/03 00:00 [received]
+PHST- 2014/01/17 00:00 [accepted]
+PHST- 2014/02/04 06:00 [entrez]
+PHST- 2014/02/04 06:00 [pubmed]
+PHST- 2014/08/19 06:00 [medline]
+AID - 10.1007/s10519-014-9643-0 [doi]
+PST - ppublish
+SO  - Behav Genet. 2014 Mar;44(2):155-64. doi: 10.1007/s10519-014-9643-0. Epub 2014 Feb 
+      1.
+
+PMID- 32347502
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200710
+LR  - 20250103
+IS  - 1614-7499 (Electronic)
+IS  - 0944-1344 (Print)
+IS  - 0944-1344 (Linking)
+VI  - 27
+IP  - 20
+DP  - 2020 Jul
+TI  - Exposure to the environmental pollutant bisphenol A diglycidyl ether (BADGE) 
+      causes cell over-proliferation in Drosophila.
+PG  - 25261-25270
+LID - 10.1007/s11356-020-08899-7 [doi]
+AB  - Bisphenol A diglycidyl ether (BADGE), a derivative of bisphenol A (BPA), is 
+      widely used in the manufacture of epoxy resins as well as a coating on food 
+      containers. Recent studies have demonstrated the adverse effects of BADGE on 
+      reproduction and development in rodents and amphibians, but how BADGE affects 
+      biological activity is not understood. To gain a better understanding of the 
+      biological effects of BADGE exposure during development, we used the model 
+      organism Drosophila melanogaster and performed whole transcriptome sequencing. 
+      Interestingly, when Drosophila are raised on food containing BADGE, genes having 
+      significantly increased transcript numbers are enriched for those involved in 
+      regulating cell proliferation, including DNA replication and cell cycle control. 
+      Furthermore, raising larvae on BADGE-containing food induces hemocyte (blood 
+      cell) over-proliferation. This effect can be stimulated with even lower 
+      concentrations of BADGE if the hemocytes are already primed for cell 
+      proliferation by the expression of dominant active Ras GTPase. We conclude that 
+      chronic exposure to the xenobiotic BADGE throughout development can induce cell 
+      proliferation.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, 75 124, Uppsala, Sweden. michael.williams@neuro.uu.se.
+FAU - Cao, Hao
+AU  - Cao H
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, 75 124, Uppsala, Sweden.
+FAU - Lindkvist, Therese
+AU  - Lindkvist T
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, 75 124, Uppsala, Sweden.
+FAU - Mothes, Tobias J
+AU  - Mothes TJ
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, 75 124, Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, 75 124, Uppsala, Sweden.
+AD  - Institute for Translational Medicine and Biotechnology, Sechenov First Moscow 
+      State Medical University, Moscow, Russia.
+LA  - eng
+GR  - 2014-02812/Vetenskapsrådet/
+GR  - 2018-00738/Svenska Forskningsrådet Formas/
+PT  - Journal Article
+DEP - 20200428
+PL  - Germany
+TA  - Environ Sci Pollut Res Int
+JT  - Environmental science and pollution research international
+JID - 9441769
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Environmental Pollutants)
+RN  - 0 (Epoxy Compounds)
+RN  - F3XRM1NX4H (bisphenol A diglycidyl ether)
+SB  - IM
+MH  - Animals
+MH  - Benzhydryl Compounds
+MH  - Cell Proliferation
+MH  - *Drosophila
+MH  - Drosophila melanogaster
+MH  - *Environmental Pollutants
+MH  - Epoxy Compounds
+PMC - PMC7329772
+OTO - NOTNLM
+OT  - Cell cycle
+OT  - Environmental pollutant
+OT  - Hematopoiesis
+OT  - Hemocyte
+OT  - Whole transcriptome sequencing
+COIS- The authors declare that they have no conflict of interests.
+EDAT- 2020/04/30 06:00
+MHDA- 2020/07/11 06:00
+PMCR- 2020/04/28
+CRDT- 2020/04/30 06:00
+PHST- 2019/12/05 00:00 [received]
+PHST- 2020/04/14 00:00 [accepted]
+PHST- 2020/04/30 06:00 [pubmed]
+PHST- 2020/07/11 06:00 [medline]
+PHST- 2020/04/30 06:00 [entrez]
+PHST- 2020/04/28 00:00 [pmc-release]
+AID - 10.1007/s11356-020-08899-7 [pii]
+AID - 8899 [pii]
+AID - 10.1007/s11356-020-08899-7 [doi]
+PST - ppublish
+SO  - Environ Sci Pollut Res Int. 2020 Jul;27(20):25261-25270. doi: 
+      10.1007/s11356-020-08899-7. Epub 2020 Apr 28.
+
+PMID- 26002831
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160418
+LR  - 20181202
+IS  - 1095-9513 (Electronic)
+IS  - 1055-7903 (Linking)
+VI  - 91
+DP  - 2015 Oct
+TI  - Evolutionary hierarchy of vertebrate-like heterotrimeric G protein families.
+PG  - 27-40
+LID - S1055-7903(15)00146-3 [pii]
+LID - 10.1016/j.ympev.2015.05.009 [doi]
+AB  - Heterotrimeric G proteins perform a crucial role as molecular switches 
+      controlling various cellular responses mediated by G protein-coupled receptor 
+      (GPCR) signaling pathway. Recent data have shown that the vertebrate-like G 
+      protein families are found across metazoans and their closest unicellular 
+      relatives. However, an overall evolutionary hierarchy of vertebrate-like G 
+      proteins, including gene family annotations and in particular mapping individual 
+      gene gain/loss events across diverse holozoan lineages is still incomplete. Here, 
+      with more expanded invertebrate taxon sampling, we have reconstructed 
+      phylogenetic trees for each of the G protein classes/families and provide a 
+      robust classification and hierarchy of vertebrate-like heterotrimeric G proteins. 
+      Our results further extend the evidence that the common ancestor (CA) of 
+      holozoans had at least five ancestral Gα genes corresponding to all major 
+      vertebrate Gα classes and contain a total of eight genes including two Gβ and one 
+      Gγ. Our results also indicate that the GNAI/O-like gene likely duplicated in the 
+      last CA of metazoans to give rise to GNAI- and GNAO-like genes, which are 
+      conserved across invertebrates. Moreover, homologs of GNB1-4 paralogon- and GNB5 
+      family-like genes are found in most metazoans and that the unicellular holozoans 
+      encode two ancestral Gβ genes. Similarly, most bilaterian invertebrates encode 
+      two Gγ genes which include a representative of the GNG gene cluster and a 
+      putative homolog of GNG13. Interestingly, our results also revealed key 
+      evolutionary events such as the Drosophila melanogaster eye specific Gβ subunit 
+      that is found conserved in most arthropods and several previously unidentified 
+      species specific expansions within Gαi/o, Gαs, Gαq, Gα12/13 classes and the 
+      GNB1-4 paralogon. Also, we provide an overall proposed evolutionary scenario on 
+      the expansions of all G protein families in vertebrate tetraploidizations. Our 
+      robust classification/hierarchy is essential to further understand the 
+      differential roles of GPCR/G protein mediated intracellular signaling system 
+      across various metazoan lineages.
+CI  - Copyright © 2015 Elsevier Inc. All rights reserved.
+FAU - Krishnan, Arunkumar
+AU  - Krishnan A
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, BMC, Box 
+      593, 751 24 Uppsala, Sweden. Electronic address: arunkumar.krishnan@neuro.uu.se.
+FAU - Mustafa, Arshi
+AU  - Mustafa A
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, BMC, Box 
+      593, 751 24 Uppsala, Sweden. Electronic address: arshi.mustafa@ebc.uu.se.
+FAU - Almén, Markus Sällman
+AU  - Almén MS
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, BMC, Box 
+      593, 751 24 Uppsala, Sweden. Electronic address: markus.almen@imbim.uu.se.
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, BMC, Box 
+      593, 751 24 Uppsala, Sweden. Electronic address: robert.fredriksson@neuro.uu.se.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, BMC, Box 
+      593, 751 24 Uppsala, Sweden. Electronic address: michael.williams@neuro.uu.se.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, BMC, Box 
+      593, 751 24 Uppsala, Sweden. Electronic address: helgi.schioth@neuro.uu.se.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150520
+PL  - United States
+TA  - Mol Phylogenet Evol
+JT  - Molecular phylogenetics and evolution
+JID - 9304400
+RN  - EC 3.6.5.1 (Heterotrimeric GTP-Binding Proteins)
+SB  - IM
+MH  - Animals
+MH  - Evolution, Molecular
+MH  - Heterotrimeric GTP-Binding Proteins/*classification/*genetics
+MH  - Invertebrates/genetics
+MH  - *Multigene Family
+MH  - Phylogeny
+MH  - Vertebrates/genetics
+OTO - NOTNLM
+OT  - G protein
+OT  - GPCRs
+OT  - Gene gain/losses
+OT  - Holozoans
+OT  - Signal transduction
+EDAT- 2015/05/24 06:00
+MHDA- 2016/04/19 06:00
+CRDT- 2015/05/24 06:00
+PHST- 2014/12/31 00:00 [received]
+PHST- 2015/05/05 00:00 [revised]
+PHST- 2015/05/11 00:00 [accepted]
+PHST- 2015/05/24 06:00 [entrez]
+PHST- 2015/05/24 06:00 [pubmed]
+PHST- 2016/04/19 06:00 [medline]
+AID - S1055-7903(15)00146-3 [pii]
+AID - 10.1016/j.ympev.2015.05.009 [doi]
+PST - ppublish
+SO  - Mol Phylogenet Evol. 2015 Oct;91:27-40. doi: 10.1016/j.ympev.2015.05.009. Epub 
+      2015 May 20.
+
+PMID- 27100621
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170605
+LR  - 20181202
+IS  - 1945-7170 (Electronic)
+IS  - 0013-7227 (Linking)
+VI  - 157
+IP  - 6
+DP  - 2016 Jun
+TI  - Dibutyl Phthalate Exposure Disrupts Evolutionarily Conserved Insulin and 
+      Glucagon-Like Signaling in Drosophila Males.
+PG  - 2309-21
+LID - 10.1210/en.2015-2006 [doi]
+AB  - Phthalate diesters are commonly used as industrial plasticisers, as well as in 
+      cosmetics and skin care products, as a result people are constantly exposed to 
+      these xenobiotics. Recent epidemiological studies have found a correlation 
+      between circulating phthalate levels and type 2 diabetes, whereas animal studies 
+      indicate that phthalates are capable of disrupting endocrine signaling. 
+      Nonetheless, how phthalates interfere with metabolic function is still unclear. 
+      Here, we show that feeding Drosophila males the xenobiotic dibutyl phthalate 
+      (DBP) affects conserved insulin- and glucagon-like signaling. We report that 
+      raising flies on food containing DBP leads to starvation resistance, increased 
+      lipid storage, hyperglycemia, and hyperphagia. We go on to show that the 
+      starvation-resistance phenotype can be rescued by overexpression of the glucagon 
+      analogue adipokinetic hormone (Akh). Furthermore, although acute DBP exposure in 
+      adult flies is able to affect insulin levels, only chronic feeding influences Akh 
+      expression. We establish that raising flies on DBP-containing food or feeding 
+      adults DBP food affects the expression of homologous genes involved in xenobiotic 
+      and lipid metabolism (AHR [Drosophila ss], NR1I2 [Hr96], ABCB1 [MDR50], ABCC3 
+      [MRP], and CYP3A4 [Cyp9f2]). Finally, we determined that the expression of these 
+      genes is also influenced by Akh. Our results provide comprehensive evidence that 
+      DBP can disrupt metabolism in Drosophila males, by regulating genes involved in 
+      glucose, lipid, and xenobiotic metabolism.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 75124 
+      Uppsala, Sweden.
+FAU - Wiemerslage, Lyle
+AU  - Wiemerslage L
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 75124 
+      Uppsala, Sweden.
+FAU - Gohel, Priya
+AU  - Gohel P
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 75124 
+      Uppsala, Sweden.
+FAU - Kheder, Sania
+AU  - Kheder S
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 75124 
+      Uppsala, Sweden.
+FAU - Kothegala, Lakshmi V
+AU  - Kothegala LV
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 75124 
+      Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 75124 
+      Uppsala, Sweden.
+LA  - eng
+PT  - Journal Article
+DEP - 20160421
+PL  - United States
+TA  - Endocrinology
+JT  - Endocrinology
+JID - 0375040
+RN  - 0 (ATP Binding Cassette Transporter, Subfamily B)
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Environmental Pollutants)
+RN  - 0 (Insulin)
+RN  - 0 (Xenobiotics)
+RN  - 0 (multidrug resistance protein 50, Drosophila)
+RN  - 2286E5R2KE (Dibutyl Phthalate)
+RN  - 9007-92-5 (Glucagon)
+RN  - EC 1.14.14.1 (Cytochrome P-450 CYP3A)
+SB  - IM
+MH  - ATP Binding Cassette Transporter, Subfamily B/metabolism
+MH  - Animals
+MH  - Cytochrome P-450 CYP3A/metabolism
+MH  - Dibutyl Phthalate/*toxicity
+MH  - Drosophila
+MH  - Drosophila Proteins/metabolism
+MH  - Environmental Pollutants/toxicity
+MH  - Glucagon/*metabolism
+MH  - Insulin/*metabolism
+MH  - Lipid Metabolism/drug effects
+MH  - Male
+MH  - Signal Transduction/drug effects
+MH  - Xenobiotics/metabolism
+EDAT- 2016/04/22 06:00
+MHDA- 2017/06/06 06:00
+CRDT- 2016/04/22 06:00
+PHST- 2016/04/22 06:00 [entrez]
+PHST- 2016/04/22 06:00 [pubmed]
+PHST- 2017/06/06 06:00 [medline]
+AID - 10.1210/en.2015-2006 [doi]
+PST - ppublish
+SO  - Endocrinology. 2016 Jun;157(6):2309-21. doi: 10.1210/en.2015-2006. Epub 2016 Apr 
+      21.
+
+PMID- 26168034
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160614
+LR  - 20190617
+IS  - 1944-9917 (Electronic)
+IS  - 0888-8809 (Print)
+IS  - 0888-8809 (Linking)
+VI  - 29
+IP  - 9
+DP  - 2015 Sep
+TI  - The Obesity-Linked Gene Nudt3 Drosophila Homolog Aps Is Associated With Insulin 
+      Signaling.
+PG  - 1303-19
+LID - 10.1210/ME.2015-1077 [doi]
+AB  - Several genome-wide association studies have linked the Nudix hydrolase family 
+      member nucleoside diphosphate-linked moiety X motif 3 (NUDT3) to obesity. 
+      However, the manner of NUDT3 involvement in obesity is unknown, and NUDT3 
+      expression, regulation, and signaling in the central nervous system has not been 
+      studied. We performed an extensive expression analysis in mice, as well as 
+      knocked down the Drosophila NUDT3 homolog Aps in the nervous system, to determine 
+      its effect on metabolism. Detailed in situ hybridization studies in the mouse 
+      brain revealed abundant Nudt3 mRNA and protein expression throughout the brain, 
+      including reward- and feeding-related regions of the hypothalamus and amygdala, 
+      whereas Nudt3 mRNA expression was significantly up-regulated in the hypothalamus 
+      and brainstem of food-deprived mice. Knocking down Aps in the Drosophila central 
+      nervous system, or a subset of median neurosecretory cells, known as the 
+      insulin-producing cells (IPCs), induces hyperinsulinemia-like phenotypes, 
+      including a decrease in circulating trehalose levels as well as significantly 
+      decreasing all carbohydrate levels under starvation conditions. Moreover, 
+      lowering Aps IPC expression leads to a decreased ability to recruit these lipids 
+      during starvation. Also, loss of neuronal Aps expression caused a starvation 
+      susceptibility phenotype while inducing hyperphagia. Finally, the loss of IPC Aps 
+      lowered the expression of Akh, Ilp6, and Ilp3, genes known to be inhibited by 
+      insulin signaling. These results point toward a role for this gene in the 
+      regulation of insulin signaling, which could explain the robust association with 
+      obesity in humans.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Neuroscience, Division of Functional Pharmacology, Uppsala 
+      University, 75 124 Uppsala, Sweden.
+FAU - Eriksson, Anders
+AU  - Eriksson A
+AD  - Department of Neuroscience, Division of Functional Pharmacology, Uppsala 
+      University, 75 124 Uppsala, Sweden.
+FAU - Shaik, Muksheed
+AU  - Shaik M
+AD  - Department of Neuroscience, Division of Functional Pharmacology, Uppsala 
+      University, 75 124 Uppsala, Sweden.
+FAU - Voisin, Sarah
+AU  - Voisin S
+AD  - Department of Neuroscience, Division of Functional Pharmacology, Uppsala 
+      University, 75 124 Uppsala, Sweden.
+FAU - Yamskova, Olga
+AU  - Yamskova O
+AD  - Department of Neuroscience, Division of Functional Pharmacology, Uppsala 
+      University, 75 124 Uppsala, Sweden.
+FAU - Paulsson, Johan
+AU  - Paulsson J
+AD  - Department of Neuroscience, Division of Functional Pharmacology, Uppsala 
+      University, 75 124 Uppsala, Sweden.
+FAU - Thombare, Ketan
+AU  - Thombare K
+AD  - Department of Neuroscience, Division of Functional Pharmacology, Uppsala 
+      University, 75 124 Uppsala, Sweden.
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+AD  - Department of Neuroscience, Division of Functional Pharmacology, Uppsala 
+      University, 75 124 Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Neuroscience, Division of Functional Pharmacology, Uppsala 
+      University, 75 124 Uppsala, Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150713
+PL  - United States
+TA  - Mol Endocrinol
+JT  - Molecular endocrinology (Baltimore, Md.)
+JID - 8801431
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (ILP3 protein, Drosophila)
+RN  - 0 (Ilp6 protein, Drosophila)
+RN  - 0 (Insect Hormones)
+RN  - 0 (Insulin)
+RN  - 0 (Intercellular Signaling Peptides and Proteins)
+RN  - 0 (Oligopeptides)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Somatomedins)
+RN  - 129204-82-6 (DAKH peptide)
+RN  - B8WCK70T7I (Trehalose)
+RN  - EC 3.6.- (Acid Anhydride Hydrolases)
+RN  - EC 3.6.1.- (Aps protein, Drosophila)
+RN  - EC 3.6.1.- (Pyrophosphatases)
+RN  - EC 3.6.1.- (diphosphoinositol polyphosphate phosphohydrolase)
+RN  - SZB83O1W42 (Pyrrolidonecarboxylic Acid)
+SB  - IM
+MH  - Acid Anhydride Hydrolases/biosynthesis/*genetics/metabolism
+MH  - Amygdala/metabolism
+MH  - Animals
+MH  - Cell Line, Tumor
+MH  - Drosophila
+MH  - Drosophila Proteins/biosynthesis
+MH  - Gene Knockdown Techniques
+MH  - HCT116 Cells
+MH  - HeLa Cells
+MH  - Humans
+MH  - Hyperinsulinism/genetics
+MH  - Hyperphagia/genetics
+MH  - Hypothalamus/metabolism
+MH  - Insect Hormones/biosynthesis
+MH  - Insulin/genetics/*metabolism
+MH  - Insulin-Secreting Cells/metabolism
+MH  - Intercellular Signaling Peptides and Proteins/biosynthesis
+MH  - MCF-7 Cells
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Obesity/*genetics
+MH  - Oligopeptides/biosynthesis
+MH  - Pyrophosphatases/*genetics
+MH  - Pyrrolidonecarboxylic Acid/analogs & derivatives
+MH  - RNA, Messenger/biosynthesis
+MH  - Signal Transduction/genetics
+MH  - Somatomedins/biosynthesis
+MH  - Starvation/*genetics
+MH  - Trehalose/blood
+PMC - PMC5414682
+EDAT- 2015/07/15 06:00
+MHDA- 2016/06/15 06:00
+PMCR- 2016/09/01
+CRDT- 2015/07/14 06:00
+PHST- 2015/07/14 06:00 [entrez]
+PHST- 2015/07/15 06:00 [pubmed]
+PHST- 2016/06/15 06:00 [medline]
+PHST- 2016/09/01 00:00 [pmc-release]
+AID - me-15-1077 [pii]
+AID - 10.1210/ME.2015-1077 [doi]
+PST - ppublish
+SO  - Mol Endocrinol. 2015 Sep;29(9):1303-19. doi: 10.1210/ME.2015-1077. Epub 2015 Jul 
+      13.
+
+PMID- 32731370
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2076-3425 (Print)
+IS  - 2076-3425 (Electronic)
+IS  - 2076-3425 (Linking)
+VI  - 10
+IP  - 8
+DP  - 2020 Jul 28
+TI  - Transient Administration of Dopaminergic Precursor Causes Inheritable Overfeeding 
+      Behavior in Young Drosophila melanogaster Adults.
+LID - 10.3390/brainsci10080487 [doi]
+LID - 487
+AB  - Imbalances in dopaminergic signaling during development have been indicated as 
+      part of the underlying neurobiology of several psychiatric illnesses, including 
+      schizophrenia, major depression, bipolar disorder, and food addiction. Yet, how 
+      transient manipulation of dopaminergic signaling influences long-lasting 
+      behavioral consequences, or if these modifications can induce inheritable traits, 
+      it is still not understood. In this study, we used the Drosophila melanogaster 
+      model to test if transient pharmacological activation of the dopaminergic system 
+      leads to modulations of feeding and locomotion in adult flies. We observed that 
+      transient administration of a dopaminergic precursor, levodopa, at 6 h, 3 days or 
+      5 days post-eclosion, induced overfeeding behavior, while we did not find 
+      significant effects on locomotion. Moreover, this phenotype was inherited by the 
+      offspring of flies treated 6 h or 3 days post-eclosion, but not the offspring of 
+      those treated 5 days post-eclosion. These results indicate that transient 
+      alterations in dopaminergic signaling can produce behavioral alterations in 
+      adults, which can then be carried to descendants. These findings provide novel 
+      insights into the conditions in which environmental factors can produce 
+      transgenerational eating disorders.
+FAU - Moulin, Thiago C
+AU  - Moulin TC
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 751 
+      24 Uppsala, Sweden.
+FAU - Ferro, Federico
+AU  - Ferro F
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 751 
+      24 Uppsala, Sweden.
+FAU - Berkins, Samuel
+AU  - Berkins S
+AUID- ORCID: 0000-0002-5055-5181
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 751 
+      24 Uppsala, Sweden.
+FAU - Hoyer, Angela
+AU  - Hoyer A
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 751 
+      24 Uppsala, Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AUID- ORCID: 0000-0003-4622-1207
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 751 
+      24 Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Functional Pharmacology Unit, Department of Neuroscience, Uppsala University, 751 
+      24 Uppsala, Sweden.
+AD  - Institute for Translational Medicine and Biotechnology, Sechenov First Moscow 
+      State Medical University, 119146 Moscow, Russia.
+LA  - eng
+GR  - ---/Kungl Vetenskapssamh Scholarship (Royal Society of Arts and Scientists)/
+GR  - -/Swedish Research Council/
+GR  - -/Swedish Brain Research Foundation/
+GR  - -/Novo Nordisk Foundation/
+GR  - FAT4BRAIN project Grant No: 857394/European Union's Horizon 2020 research and 
+      innovation program/
+PT  - Journal Article
+DEP - 20200728
+PL  - Switzerland
+TA  - Brain Sci
+JT  - Brain sciences
+JID - 101598646
+PMC - PMC7465534
+OTO - NOTNLM
+OT  - L-DOPA
+OT  - development
+OT  - dopamine
+OT  - energy intake
+OT  - feeding
+OT  - reward
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2020/08/01 06:00
+MHDA- 2020/08/01 06:01
+PMCR- 2020/08/01
+CRDT- 2020/08/01 06:00
+PHST- 2020/06/29 00:00 [received]
+PHST- 2020/07/13 00:00 [revised]
+PHST- 2020/07/25 00:00 [accepted]
+PHST- 2020/08/01 06:00 [entrez]
+PHST- 2020/08/01 06:00 [pubmed]
+PHST- 2020/08/01 06:01 [medline]
+PHST- 2020/08/01 00:00 [pmc-release]
+AID - brainsci10080487 [pii]
+AID - brainsci-10-00487 [pii]
+AID - 10.3390/brainsci10080487 [doi]
+PST - epublish
+SO  - Brain Sci. 2020 Jul 28;10(8):487. doi: 10.3390/brainsci10080487.
+
+PMID- 24142897
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140902
+LR  - 20211021
+IS  - 1943-2631 (Electronic)
+IS  - 0016-6731 (Print)
+IS  - 0016-6731 (Linking)
+VI  - 196
+IP  - 1
+DP  - 2014 Jan
+TI  - Regulation of aggression by obesity-linked genes TfAP-2 and Twz through 
+      octopamine signaling in Drosophila.
+PG  - 349-62
+LID - 10.1534/genetics.113.158402 [doi]
+AB  - In Drosophila, the monoamine octopamine, through mechanisms that are not 
+      completely understood, regulates both aggression and mating behavior. 
+      Interestingly, our study demonstrates that the Drosophila obesity-linked homologs 
+      Transcription factor AP-2 (TfAP-2; TFAP2B in humans) and Tiwaz (Twz; KCTD15 in 
+      humans) interact to modify male behavior by controlling the expression of 
+      Tyramine β-hydroxylase and Vesicular monanime transporter, genes necessary for 
+      octopamine production and secretion. Furthermore, we reveal that octopamine in 
+      turn regulates aggression through the Drosophila cholecystokinin satiation 
+      hormone homolog Drosulfakinin (Dsk). Finally, we establish that TfAP-2 is 
+      expressed in octopaminergic neurons known to control aggressive behavior and that 
+      TfAP-2 requires functional Twz for its activity. We conclude that genetically 
+      manipulating the obesity-linked homologs TfAP-2 and Twz is sufficient to affect 
+      octopamine signaling, which in turn modulates Drosophila male behavior through 
+      the regulation of the satiation hormone Dsk.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Functional Pharmacology, Department of Neuroscience, Uppsala University, 75 124 
+      Uppsala, Sweden.
+FAU - Goergen, Philip
+AU  - Goergen P
+FAU - Rajendran, Jayasimman
+AU  - Rajendran J
+FAU - Klockars, Anica
+AU  - Klockars A
+FAU - Kasagiannis, Anna
+AU  - Kasagiannis A
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20131018
+PL  - United States
+TA  - Genetics
+JT  - Genetics
+JID - 0374636
+RN  - 0 (Adrenergic alpha-Antagonists)
+RN  - 0 (Dibenzazepines)
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Histamine H1 Antagonists)
+RN  - 0 (Imidazoles)
+RN  - 0 (Oligopeptides)
+RN  - 0 (Transcription Factor AP-2)
+RN  - 0 (Vesicular Monoamine Transport Proteins)
+RN  - 117457-89-3 (drosulfakinin 0)
+RN  - 14O50WS8JD (Octopamine)
+RN  - 9011-97-6 (Cholecystokinin)
+RN  - EC 1.- (Mixed Function Oxygenases)
+RN  - EC 1.14.- (tyramine beta-hydroxylase)
+RN  - EC 4.1.1.25 (Tdc2 protein, Drosophila)
+RN  - EC 4.1.1.25 (Tyrosine Decarboxylase)
+RN  - Q13WX941EF (epinastine)
+RN  - Z468598HBV (Phentolamine)
+SB  - IM
+MH  - Adrenergic alpha-Antagonists/pharmacology
+MH  - Aggression/*physiology
+MH  - Animals
+MH  - Cholecystokinin/antagonists & inhibitors/genetics
+MH  - Dibenzazepines/pharmacology
+MH  - Drosophila Proteins/genetics
+MH  - Drosophila melanogaster/*genetics
+MH  - Histamine H1 Antagonists/pharmacology
+MH  - Imidazoles/pharmacology
+MH  - Male
+MH  - Mixed Function Oxygenases/biosynthesis/genetics
+MH  - Obesity/genetics
+MH  - Octopamine/antagonists & inhibitors/biosynthesis/*metabolism
+MH  - Oligopeptides/genetics
+MH  - Phentolamine/pharmacology
+MH  - Satiety Response/physiology
+MH  - Sexual Behavior, Animal/physiology
+MH  - Signal Transduction/genetics
+MH  - Transcription Factor AP-2/*genetics
+MH  - Tyrosine Decarboxylase/genetics
+MH  - Vesicular Monoamine Transport Proteins/biosynthesis/genetics
+PMC - PMC3872196
+OTO - NOTNLM
+OT  - aggression
+OT  - cholecystokinin
+OT  - noradrenaline
+OT  - obesity-linked genes
+OT  - octopamine
+EDAT- 2013/10/22 06:00
+MHDA- 2014/09/03 06:00
+PMCR- 2015/01/01
+CRDT- 2013/10/22 06:00
+PHST- 2013/10/22 06:00 [entrez]
+PHST- 2013/10/22 06:00 [pubmed]
+PHST- 2014/09/03 06:00 [medline]
+PHST- 2015/01/01 00:00 [pmc-release]
+AID - genetics.113.158402 [pii]
+AID - 158402 [pii]
+AID - 10.1534/genetics.113.158402 [doi]
+PST - ppublish
+SO  - Genetics. 2014 Jan;196(1):349-62. doi: 10.1534/genetics.113.158402. Epub 2013 Oct 
+      18.
+
+PMID- 27009472
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170309
+LR  - 20170309
+IS  - 1742-7843 (Electronic)
+IS  - 1742-7835 (Linking)
+VI  - 119
+IP  - 3
+DP  - 2016 Sep
+TI  - Bis-(2-ethylhexyl) Phthalate Increases Insulin Expression and Lipid Levels in 
+      Drosophila melanogaster.
+PG  - 309-16
+LID - 10.1111/bcpt.12587 [doi]
+AB  - Bis-(2-ethylhexyl) phthalate (DEHP) is one of the most widely used plasticizers, 
+      and human beings are exposed to DEHP via polyvinyl chloride (PVC) materials, 
+      medical equipment and even drinking water. While DEHP has been implicated to 
+      influence metabolism and endocrine functions, important questions remain about 
+      the molecular mechanisms of these effects. We employed the model organism 
+      Drosophila melanogaster and examined physiological, molecular and behavioural 
+      effects from DEHP-contaminated food. We found that DEHP, at levels comparable to 
+      human exposure, made male flies more resistant to starvation and increased lipid 
+      levels, while decreasing circulating carbohydrates. Moreover, DEHP-fed male flies 
+      had higher expression levels of an insulin-like peptide known to regulate 
+      metabolism, as well as the insulin receptor. Our results suggest that long-term 
+      DEHP feeding may induce diabetes-like dysfunctions. These findings provide a 
+      molecular background of how DEHP may have detrimental effects on metabolic 
+      functions.
+CI  - © 2016 Nordic Association for the Publication of BCPT (former Nordic 
+      Pharmacological Society).
+FAU - Cao, Hao
+AU  - Cao H
+AD  - Unit of Functional pharmacology, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden.
+FAU - Wiemerslage, Lyle
+AU  - Wiemerslage L
+AD  - Unit of Functional pharmacology, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden.
+FAU - Marttila, Petra S K
+AU  - Marttila PS
+AD  - Unit of Functional pharmacology, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Unit of Functional pharmacology, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Unit of Functional pharmacology, Department of Neuroscience, Uppsala University, 
+      Uppsala, Sweden.
+LA  - eng
+PT  - Journal Article
+DEP - 20160425
+PL  - England
+TA  - Basic Clin Pharmacol Toxicol
+JT  - Basic & clinical pharmacology & toxicology
+JID - 101208422
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (ILP3 protein, Drosophila)
+RN  - 0 (Insulin)
+RN  - 0 (Intercellular Signaling Peptides and Proteins)
+RN  - 0 (Plasticizers)
+RN  - 9002-86-2 (Polyvinyl Chloride)
+RN  - C42K0PH13C (Diethylhexyl Phthalate)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Animals
+MH  - Behavior, Animal/drug effects
+MH  - Carbohydrate Metabolism/drug effects
+MH  - Diethylhexyl Phthalate/*toxicity
+MH  - Drosophila Proteins/genetics/metabolism
+MH  - *Drosophila melanogaster
+MH  - Insulin/*metabolism
+MH  - Intercellular Signaling Peptides and Proteins/genetics/metabolism
+MH  - Lipid Metabolism/*drug effects
+MH  - Male
+MH  - Plasticizers
+MH  - Polyvinyl Chloride/chemistry/toxicity
+MH  - Receptor, Insulin/genetics/metabolism
+EDAT- 2016/03/25 06:00
+MHDA- 2017/03/10 06:00
+CRDT- 2016/03/25 06:00
+PHST- 2015/11/02 00:00 [received]
+PHST- 2016/03/15 00:00 [accepted]
+PHST- 2016/03/25 06:00 [entrez]
+PHST- 2016/03/25 06:00 [pubmed]
+PHST- 2017/03/10 06:00 [medline]
+AID - 10.1111/bcpt.12587 [doi]
+PST - ppublish
+SO  - Basic Clin Pharmacol Toxicol. 2016 Sep;119(3):309-16. doi: 10.1111/bcpt.12587. 
+      Epub 2016 Apr 25.
+
+PMID- 24215246
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141218
+LR  - 20250103
+IS  - 1742-7843 (Electronic)
+IS  - 1742-7835 (Linking)
+VI  - 114
+IP  - 5
+DP  - 2014 May
+TI  - Exposure to bisphenol A affects lipid metabolism in Drosophila melanogaster.
+PG  - 414-20
+LID - 10.1111/bcpt.12170 [doi]
+AB  - Exposure to bisphenol A (BPA) in rodents was shown to induce obesity, yet the 
+      mechanism by which BPA might induce obesity is still unclear. We employed the 
+      genetically tractable model organism, Drosophila melanogaster, to test the 
+      effects of raising them on food containing various concentrations of BPA. Of 
+      note, raising males on food containing BPA were susceptible to starvation, 
+      possibly by inhibiting their ability to perform lipolysis during starvation, 
+      leading to significantly increased lipid content after 24 hr of fasting. 
+      Furthermore, feeding males with BPA significantly inhibited the expression of 
+      insulin-like peptides. From these results, we conclude that BPA may inhibit lipid 
+      recruitment during starvation in Drosophila.
+CI  - © 2013 Nordic Association for the Publication of BCPT (former Nordic 
+      Pharmacological Society).
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Neuroscience, Uppsala University, Uppsala, Sweden.
+FAU - Wang, Yi
+AU  - Wang Y
+FAU - Klockars, Anica
+AU  - Klockars A
+FAU - Monica Lind, P
+AU  - Monica Lind P
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20131211
+PL  - England
+TA  - Basic Clin Pharmacol Toxicol
+JT  - Basic & clinical pharmacology & toxicology
+JID - 101208422
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Phenols)
+RN  - RW57K3X12M (bisphenol A)
+SB  - IM
+MH  - Animals
+MH  - Benzhydryl Compounds/*toxicity
+MH  - Drosophila Proteins/genetics
+MH  - Drosophila melanogaster
+MH  - Fasting/metabolism
+MH  - Female
+MH  - Larva
+MH  - Lipid Metabolism/*drug effects
+MH  - Lipolysis/*drug effects
+MH  - Male
+MH  - Phenols/*toxicity
+MH  - Starvation/metabolism
+EDAT- 2013/11/13 06:00
+MHDA- 2014/12/19 06:00
+CRDT- 2013/11/13 06:00
+PHST- 2013/09/26 00:00 [received]
+PHST- 2013/10/30 00:00 [accepted]
+PHST- 2013/11/13 06:00 [entrez]
+PHST- 2013/11/13 06:00 [pubmed]
+PHST- 2014/12/19 06:00 [medline]
+AID - 10.1111/bcpt.12170 [doi]
+PST - ppublish
+SO  - Basic Clin Pharmacol Toxicol. 2014 May;114(5):414-20. doi: 10.1111/bcpt.12170. 
+      Epub 2013 Dec 11.
+
+PMID- 15687224
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050615
+LR  - 20250213
+IS  - 0026-895X (Print)
+IS  - 0026-895X (Linking)
+VI  - 67
+IP  - 5
+DP  - 2005 May
+TI  - The repertoire of G-protein-coupled receptors in fully sequenced genomes.
+PG  - 1414-25
+AB  - The superfamily of G-protein-coupled receptors (GPCRs) is one of the largest and 
+      most studied families of proteins. We created Hidden Markov Models derived from 
+      sorted groups of GPCRs from our previous detailed phylogenetic classification of 
+      human GPCRs and added several other models derived from receptors not found in 
+      mammals. We used these models to search entire Genscan data sets from 13 species 
+      whose genomes are nearly completely sequenced. We found more than 5000 unique 
+      GPCRs that were divided into 15 main groups, and the largest one, the Rhodopsin 
+      family, was subdivided into 13 subclasses. The results show that the main 
+      families in the human genome, Glutamate, Rhodopsin, Adhesion, Frizzled, and 
+      Secretin, arose before the split of nematodes from the chordate lineage. 
+      Moreover, several of the subgroups of the Rhodopsin family arose before the split 
+      of the linage leading to vertebrates. We also searched expressed sequence tag 
+      (EST) databases and identified more than 20,000 sequences that match GPCRs. 
+      Although the GPCRs represent typically 1 to 2% of the Genscan predictions, the 
+      ESTs that match GPCRs are typically only 0.01 to 0.001%, indicating that GPCRs in 
+      most of the groups are expressed at low levels. We also provide searchable data 
+      sets that may be used for annotation and further detailed analysis of the GPCR 
+      family. This study provides an extensive overview of the expansion of the gene 
+      repertoire for families and subgroups of GPCRs.
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+AD  - Department of Neuroscience, Uppsala University, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20050201
+PL  - Netherlands
+TA  - Mol Pharmacol
+JT  - Molecular pharmacology
+JID - 0035623
+RN  - 0 (Receptors, G-Protein-Coupled)
+SB  - IM
+CIN - Mol Pharmacol. 2005 May;67(5):1383-4. doi: 10.1124/mol.105.011890. PMID: 15703374
+MH  - Animals
+MH  - Caenorhabditis elegans/genetics
+MH  - Ciona intestinalis/genetics
+MH  - Culicidae/genetics
+MH  - Drosophila melanogaster/genetics
+MH  - *Genome
+MH  - Humans
+MH  - Mice
+MH  - *Phylogeny
+MH  - Plants/genetics
+MH  - Plasmodium falciparum/genetics
+MH  - Receptors, G-Protein-Coupled/classification/*genetics
+MH  - *Sequence Analysis, DNA
+MH  - Takifugu/genetics
+MH  - Yeasts/genetics
+MH  - Zebrafish/genetics
+EDAT- 2005/02/03 09:00
+MHDA- 2005/06/16 09:00
+CRDT- 2005/02/03 09:00
+PHST- 2005/02/03 09:00 [pubmed]
+PHST- 2005/06/16 09:00 [medline]
+PHST- 2005/02/03 09:00 [entrez]
+AID - S0026-895X(24)06718-X [pii]
+AID - 10.1124/mol.104.009001 [doi]
+PST - ppublish
+SO  - Mol Pharmacol. 2005 May;67(5):1414-25. doi: 10.1124/mol.104.009001. Epub 2005 Feb 
+      1.
+
+PMID- 25887538
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160112
+LR  - 20181113
+IS  - 1471-2202 (Electronic)
+IS  - 1471-2202 (Linking)
+VI  - 16
+DP  - 2015 Mar 14
+TI  - Implication of coronin 7 in body weight regulation in humans, mice and flies.
+PG  - 13
+LID - 10.1186/s12868-015-0151-9 [doi]
+LID - 13
+AB  - BACKGROUND: Obesity is a growing global concern with strong associations with 
+      cardiovascular disease, cancer and type-2 diabetes. Although various genome-wide 
+      association studies have identified more than 40 genes associated with obesity, 
+      these genes cannot fully explain the heritability of obesity, suggesting there 
+      may be other contributing factors, including epigenetic effects. RESULTS: We 
+      performed genome wide DNA methylation profiling comparing normal-weight and obese 
+      9-13 year old children to investigate possible epigenetic changes correlated with 
+      obesity. Of note, obese children had significantly lower methylation levels at a 
+      CpG site located near coronin 7 (CORO7), which encodes a tryptophan-aspartic acid 
+      dipeptide (WD)-repeat containing protein most likely involved in Golgi complex 
+      morphology and function. Anatomical profiling of coronin 7 (Coro7) mRNA 
+      expression in mice revealed that it is highly expressed in appetite and energy 
+      balance regulating regions, including the hypothalamus, striatum and locus 
+      coeruleus, the main noradrenergic brain site. Interestingly, we found that food 
+      deprivation in mice downregulates hypothalamic Coro7 mRNA levels, and injecting 
+      ethanol, an appetite stimulant, increased the number of Coro7 expressing cells in 
+      the locus coeruleus. Finally, by employing the genetically-tractable Drosophila 
+      melanogaster model we were able to demonstrate an evolutionarily conserved 
+      metabolic function for the CORO7 homologue pod1. Knocking down the pod1 in the 
+      Drosophila adult nervous system increased their resistance to starvation. 
+      Furthermore, feeding flies a high-calorie diet significantly increased pod1 
+      expression. CONCLUSION: We conclude that coronin 7 is involved in the regulation 
+      of energy homeostasis and this role stems, to some degree, from the effect on 
+      feeding for calories and reward.
+FAU - Eriksson, Anders
+AU  - Eriksson A
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, Uppsala, 75 124, Sweden. anders.eriksson@neuro.uu.se.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, Uppsala, 75 124, Sweden. Michael.Williams@neuro.uu.se.
+FAU - Voisin, Sarah
+AU  - Voisin S
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, Uppsala, 75 124, Sweden. sarah.voisin.aeris@gmail.com.
+FAU - Hansson, Ida
+AU  - Hansson I
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, Uppsala, 75 124, Sweden. idaehansson@gmail.com.
+FAU - Krishnan, Arunkumar
+AU  - Krishnan A
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, Uppsala, 75 124, Sweden. arunkumar.krishnan@neuro.uu.se.
+FAU - Philippot, Gaetan
+AU  - Philippot G
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, Uppsala, 75 124, Sweden. gaetan.philippot@ebc.uu.se.
+FAU - Yamskova, Olga
+AU  - Yamskova O
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, Uppsala, 75 124, Sweden. olga.yamskova@gmail.com.
+FAU - Herisson, Florence M
+AU  - Herisson FM
+AD  - Department of Biological Sciences, University of Waikato, Hamilton, New Zealand. 
+      florence.herisson@gmail.com.
+FAU - Dnyansagar, Rohit
+AU  - Dnyansagar R
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, Uppsala, 75 124, Sweden. rohit.dnyansagar@gmail.com.
+FAU - Moschonis, George
+AU  - Moschonis G
+AD  - Department of Nutrition and Dietetics, Harokopio University, Athens, Greece. 
+      gmoschi@hua.gr.
+FAU - Manios, Yannis
+AU  - Manios Y
+AD  - Department of Nutrition and Dietetics, Harokopio University, Athens, Greece. 
+      manios@hua.gr.
+FAU - Chrousos, George P
+AU  - Chrousos GP
+AD  - First Department of Pediatrics, Aghia Sophia Children's Hospital, Athens 
+      University Medical School, Athens, Greece. chrousge@med.uoa.gr.
+FAU - Olszewski, Pawel K
+AU  - Olszewski PK
+AD  - Department of Biological Sciences, University of Waikato, Hamilton, New Zealand. 
+      pawel@waikato.ac.nz.
+FAU - Frediksson, Robert
+AU  - Frediksson R
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, Uppsala, 75 124, Sweden. robert.fredriksson@neuro.uu.se.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Neuroscience, Functional Pharmacology, Uppsala University, 
+      Husargatan 3, Box 593, Uppsala, 75 124, Sweden. helgi.schioth@neuro.uu.se.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150314
+PL  - England
+TA  - BMC Neurosci
+JT  - BMC neuroscience
+JID - 100966986
+RN  - 0 (Appetite Stimulants)
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Microfilament Proteins)
+RN  - 0 (Pod1 protein, Drosophila)
+RN  - 0 (RNA, Messenger)
+RN  - 145420-64-0 (coronin proteins)
+RN  - 3K9958V90M (Ethanol)
+SB  - IM
+MH  - Adolescent
+MH  - Animals
+MH  - Appetite Stimulants/pharmacology
+MH  - Body Weight/*physiology
+MH  - Brain/drug effects/metabolism
+MH  - Child
+MH  - Cohort Studies
+MH  - Diet, High-Fat
+MH  - Drosophila Proteins/genetics/*metabolism
+MH  - Drosophila melanogaster
+MH  - Ethanol/pharmacology
+MH  - Female
+MH  - Food Deprivation/physiology
+MH  - Gene Knockdown Techniques
+MH  - Humans
+MH  - Male
+MH  - Mice, Inbred C57BL
+MH  - Microfilament Proteins/genetics/*metabolism
+MH  - Obesity/genetics
+MH  - RNA, Messenger/metabolism
+MH  - Starvation/metabolism
+PMC - PMC4364644
+EDAT- 2015/04/19 06:00
+MHDA- 2016/01/13 06:00
+PMCR- 2015/03/14
+CRDT- 2015/04/19 06:00
+PHST- 2014/09/29 00:00 [received]
+PHST- 2015/02/25 00:00 [accepted]
+PHST- 2015/04/19 06:00 [entrez]
+PHST- 2015/04/19 06:00 [pubmed]
+PHST- 2016/01/13 06:00 [medline]
+PHST- 2015/03/14 00:00 [pmc-release]
+AID - 10.1186/s12868-015-0151-9 [pii]
+AID - 151 [pii]
+AID - 10.1186/s12868-015-0151-9 [doi]
+PST - epublish
+SO  - BMC Neurosci. 2015 Mar 14;16:13. doi: 10.1186/s12868-015-0151-9.
+
+PMID- 15804416
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050926
+LR  - 20131121
+IS  - 1055-7903 (Print)
+IS  - 1055-7903 (Linking)
+VI  - 35
+IP  - 2
+DP  - 2005 May
+TI  - The repertoire of trace amine G-protein-coupled receptors: large expansion in 
+      zebrafish.
+PG  - 470-82
+AB  - Trace amines, such as tyramine, beta-phenylethylamine, tryptamine, and 
+      octopamine, are present in trace levels in nervous systems and bind a specific 
+      family of G-protein-coupled receptors (GPCR), but the function or origin of this 
+      system is not well understood. We searched the genomes of several eukaryotic 
+      species for receptors similar to the mammalian trace amine (TA) receptor 
+      subfamily. We identified 18 new receptors in rodents that are orthologous to the 
+      previously known TA-receptors. Remarkably, we found 57 receptors (and 40 
+      pseudogenes) of this type in the zebrafish (Danio rerio), while fugu (Takifugu 
+      rubripes) had only eight receptors (and seven pseudogenes). We mapped 47 of the 
+      zebrafish TA-receptors on chromosomes using radiation hybrid panels and meiotic 
+      mapping. The results, together with the degree of conservation and phylogenetic 
+      relationships displayed among the zebrafish receptors suggest that the family 
+      arose through several different mechanisms involving tetraploidization, block 
+      duplications, and local duplication events. Interestingly, these vertebrate 
+      TA-receptors do not show a close evolutionary relationship to the invertebrate 
+      TA-binding receptors in fruitfly (Drosophila melanogaster), indicating that the 
+      ability to bind TA have evolved at least twice in animal evolution. We collected 
+      in total over 100 vertebrate TA-receptor sequences, and our phylogenetic analysis 
+      shows that several TA-receptors have evolved rapidly with remarkable species 
+      variation and that the common ancestor of vertebrate TA-receptors arose before 
+      the split of the ray-finned and lobe-finned fishes. The evolutionary history of 
+      the TA-receptors is more complex than for most other GPCR families and here we 
+      suggest a mechanism by which they may have arisen.
+FAU - Gloriam, David E I
+AU  - Gloriam DE
+AD  - Department of Neuroscience, Uppsala University, BMC, Box 593, 751 24 Uppsala, 
+      Sweden.
+FAU - Bjarnadóttir, Thóra K
+AU  - Bjarnadóttir TK
+FAU - Yan, Yi-Lin
+AU  - Yan YL
+FAU - Postlethwait, John H
+AU  - Postlethwait JH
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+LA  - eng
+GR  - HD22486/HD/NICHD NIH HHS/United States
+GR  - R01RR10715/RR/NCRR NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20050125
+PL  - United States
+TA  - Mol Phylogenet Evol
+JT  - Molecular phylogenetics and evolution
+JID - 9304400
+RN  - 0 (Phenethylamines)
+RN  - 0 (Receptors, G-Protein-Coupled)
+RN  - 0 (Tryptamines)
+RN  - 0 (Zebrafish Proteins)
+RN  - 14O50WS8JD (Octopamine)
+RN  - 327C7L2BXQ (phenethylamine)
+RN  - 422ZU9N5TV (tryptamine)
+RN  - X8ZC7V0OX3 (Tyramine)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Chromosome Mapping
+MH  - Conserved Sequence
+MH  - Expressed Sequence Tags
+MH  - Humans
+MH  - Likelihood Functions
+MH  - Markov Chains
+MH  - Mice
+MH  - Molecular Sequence Data
+MH  - Nervous System/chemistry
+MH  - Octopamine/analysis
+MH  - Phenethylamines/analysis
+MH  - *Phylogeny
+MH  - Rats
+MH  - Receptors, G-Protein-Coupled/chemistry/*genetics
+MH  - Sequence Alignment
+MH  - Sequence Homology, Amino Acid
+MH  - Tryptamines/analysis
+MH  - Tyramine/analysis
+MH  - Zebrafish/*classification/*genetics
+MH  - Zebrafish Proteins/*genetics
+EDAT- 2005/04/05 09:00
+MHDA- 2005/09/27 09:00
+CRDT- 2005/04/05 09:00
+PHST- 2004/07/13 00:00 [received]
+PHST- 2004/12/01 00:00 [revised]
+PHST- 2004/12/07 00:00 [accepted]
+PHST- 2005/04/05 09:00 [pubmed]
+PHST- 2005/09/27 09:00 [medline]
+PHST- 2005/04/05 09:00 [entrez]
+AID - S1055-7903(04)00380-X [pii]
+AID - 10.1016/j.ympev.2004.12.003 [doi]
+PST - ppublish
+SO  - Mol Phylogenet Evol. 2005 May;35(2):470-82. doi: 10.1016/j.ympev.2004.12.003. 
+      Epub 2005 Jan 25.
+
+PMID- 18834514
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20081202
+LR  - 20181113
+IS  - 1471-2202 (Electronic)
+IS  - 1471-2202 (Linking)
+VI  - 9
+DP  - 2008 Oct 3
+TI  - The Adhesion GPCR GPR125 is specifically expressed in the choroid plexus and is 
+      upregulated following brain injury.
+PG  - 97
+LID - 10.1186/1471-2202-9-97 [doi]
+AB  - BACKGROUND: GPR125 belongs to the family of Adhesion G protein-coupled receptors 
+      (GPCRs). A single copy of GPR125 was found in many vertebrate genomes. We also 
+      identified a Drosophila sequence, DmCG15744, which shares a common ancestor with 
+      the entire Group III of Adhesion GPCRs, and also contains Ig, LRR and HBD domains 
+      which were observed in mammalian GPR125. RESULTS: We found specific expression of 
+      GPR125 in cells of the choroid plexus using in situ hybridization and 
+      protein-specific antibodies and combined in situ/immunohistochemistry 
+      co-localization using cytokeratin, a marker specific for epithelial cells. 
+      Induction of inflammation by LPS did not change GPR125 expression. However, 
+      GPR125 expression was transiently increased (almost 2-fold) at 4 h after 
+      traumatic brain injury (TBI) followed by a decrease (approximately 4-fold) from 2 
+      days onwards in the choroid plexus as well as increased expression (2-fold) in 
+      the hippocampus that was delayed until 1 day after injury. CONCLUSION: These 
+      findings suggest that GPR125 plays a functional role in choroidal and hippocampal 
+      response to injury.
+FAU - Pickering, Chris
+AU  - Pickering C
+AD  - Uppsala University, Department of Neuroscience, Functional Pharmacology, BMC, Box 
+      593, SE-75124, Uppsala, Sweden. chris.pickering@neuro.uu.se
+FAU - Hägglund, Maria
+AU  - Hägglund M
+FAU - Szmydynger-Chodobska, Joanna
+AU  - Szmydynger-Chodobska J
+FAU - Marques, Fernanda
+AU  - Marques F
+FAU - Palha, Joana A
+AU  - Palha JA
+FAU - Waller, Linn
+AU  - Waller L
+FAU - Chodobski, Adam
+AU  - Chodobski A
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+FAU - Lagerström, Malin C
+AU  - Lagerström MC
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+LA  - eng
+GR  - R01 NS049479/NS/NINDS NIH HHS/United States
+GR  - NS-49479/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20081003
+PL  - England
+TA  - BMC Neurosci
+JT  - BMC neuroscience
+JID - 100966986
+RN  - 0 (GPR125 protein, mouse)
+RN  - 0 (Lipopolysaccharides)
+RN  - 0 (Membrane Glycoproteins)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Platelet Glycoprotein GPIb-IX Complex)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Receptors, G-Protein-Coupled)
+RN  - 0 (adhesion receptor)
+RN  - 68238-35-7 (Keratins)
+SB  - IM
+MH  - Animals
+MH  - Base Sequence
+MH  - Brain Injuries/chemically induced/*physiopathology
+MH  - Choroid Plexus/metabolism/*pathology
+MH  - Gene Expression Profiling
+MH  - Hippocampus/metabolism/pathology
+MH  - Humans
+MH  - Immunohistochemistry
+MH  - In Situ Hybridization
+MH  - Inflammation/chemically induced/physiopathology
+MH  - Keratins/genetics/metabolism
+MH  - Lipopolysaccharides
+MH  - Male
+MH  - Membrane Glycoproteins
+MH  - Membrane Proteins/*genetics/metabolism
+MH  - Mice
+MH  - Platelet Glycoprotein GPIb-IX Complex
+MH  - RNA, Messenger/genetics/metabolism
+MH  - Rats
+MH  - Receptors, G-Protein-Coupled/*genetics/metabolism
+MH  - Time Factors
+MH  - Up-Regulation/genetics
+PMC - PMC2571103
+EDAT- 2008/10/07 09:00
+MHDA- 2008/12/17 09:00
+PMCR- 2008/10/03
+CRDT- 2008/10/07 09:00
+PHST- 2008/06/25 00:00 [received]
+PHST- 2008/10/03 00:00 [accepted]
+PHST- 2008/10/07 09:00 [pubmed]
+PHST- 2008/12/17 09:00 [medline]
+PHST- 2008/10/07 09:00 [entrez]
+PHST- 2008/10/03 00:00 [pmc-release]
+AID - 1471-2202-9-97 [pii]
+AID - 10.1186/1471-2202-9-97 [doi]
+PST - epublish
+SO  - BMC Neurosci. 2008 Oct 3;9:97. doi: 10.1186/1471-2202-9-97.
+
+PMID- 27375681
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200930
+IS  - 1674-4918 (Print)
+IS  - 1759-6831 (Electronic)
+IS  - 1759-6831 (Linking)
+VI  - 51
+IP  - 6
+DP  - 2013 Nov
+TI  - Insulin receptor-like ectodomain genes and splice variants are found in both 
+      arthropods and human brain cDNA.
+PG  - 664-670
+AB  - Truncated receptor ectodomains have been described for several classes of cell 
+      surface receptors, including those that bind to growth factors, cytokines, 
+      immunoglobulins, and adhesion molecules. Soluble receptor isoforms are typically 
+      generated by proteolytic cleavage of the cell surface receptor or by alternative 
+      splicing of RNA transcripts arising from the same gene encoding the full-length 
+      receptor. Both the epidermal growth factor receptor (EGFR) and the insulin 
+      receptor (INSR) families produce soluble receptor splice variants in vertebrates 
+      and truncated forms of insulin receptor-like sequences have previously been 
+      described in Drosophila. The EGFR and INSR ectodomains share significant sequence 
+      homology with each other suggestive of a common evolutionary origin. We 
+      discovered novel truncated insulin receptor-like variants in several arthropod 
+      species. We performed a phylogenetic analysis of the conserved extracellular 
+      receptor L1 and L2 subdomains in invertebrate species. While the segregation of 
+      insulin receptor-like L1 and L2 domains indicated that an internal domain 
+      duplication had occurred only once, the generation of truncated insulin 
+      receptor-like sequences has occurred multiple times. The significance of this 
+      work is the previously unknown and widespread occurrence of truncated isoforms in 
+      arthropods, signifying that these isoforms play an important functional role, 
+      potentially related to such isoforms in mammals.
+FAU - Västermark, Åke
+AU  - Västermark Å
+AD  - Department of Neuroscience, Uppsala University, Uppsala, Sweden.
+FAU - Rask-Andersen, Mathias
+AU  - Rask-Andersen M
+AD  - Department of Neuroscience, Uppsala University, Uppsala, Sweden.
+FAU - Sawant, Rahul S
+AU  - Sawant RS
+AD  - Department of Neuroscience, Uppsala University, Uppsala, Sweden.
+FAU - Reiter, Jill L
+AU  - Reiter JL
+AD  - Department of Obstetrics and Gynecology, Indiana University School of Medicine, 
+      Indianapolis, IN 46202, USA.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Neuroscience, Uppsala University, Uppsala, Sweden.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Neuroscience, Uppsala University, Uppsala, Sweden.
+LA  - eng
+GR  - R01 GM077402/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+DEP - 20130902
+PL  - China
+TA  - J Syst Evol
+JT  - Journal of systematics and evolution
+JID - 101480490
+PMC - PMC4926259
+MID - NIHMS793861
+OTO - NOTNLM
+OT  - Drosophila
+OT  - INSR
+OT  - INSRR
+OT  - Tribolium castaneum
+OT  - ectodomain
+OT  - receptor L domain
+EDAT- 2013/11/01 00:00
+MHDA- 2013/11/01 00:01
+PMCR- 2016/06/29
+CRDT- 2016/07/05 06:00
+PHST- 2016/07/05 06:00 [entrez]
+PHST- 2013/11/01 00:00 [pubmed]
+PHST- 2013/11/01 00:01 [medline]
+PHST- 2016/06/29 00:00 [pmc-release]
+AID - 10.1111/jse.12048 [doi]
+PST - ppublish
+SO  - J Syst Evol. 2013 Nov;51(6):664-670. doi: 10.1111/jse.12048. Epub 2013 Sep 2.
