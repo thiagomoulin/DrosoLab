@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Home() {
   const navLinks = [
-    { label: "Projects", href: "#" },
+    { label: "Projects", href: "/projects" },
     { label: "Publications", href: "/publications" },
     { label: "Methods", href: "#" },
     { label: "About us", href: "/about" },
