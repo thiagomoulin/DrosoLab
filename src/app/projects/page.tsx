@@ -83,6 +83,13 @@ export default function ProjectsPage() {
 
   return (
     <main className="min-h-screen bg-black text-white py-12 px-4">
+      {/* Back Button (top-left) */}
+      <button
+        onClick={() => router.back()}
+        className="absolute left-4 top-4 text-white text-lg hover:underline"
+      >
+        &larr; Back
+      </button>
       <div className="max-w-6xl mx-auto space-y-8">
         {/* Header */}
         <section>

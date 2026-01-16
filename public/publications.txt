@@ -1,3 +1,362 @@
+PMID- 41495857
+OWN - NLM
+STAT- Publisher
+LR  - 20260106
+IS  - 1744-9081 (Electronic)
+IS  - 1744-9081 (Linking)
+DP  - 2026 Jan 6
+TI  - Conserved NT5C2 links context-specific behaviors with psychiatric and metabolic 
+      risk.
+LID - 10.1186/s12993-025-00314-w [doi]
+AB  - BACKGROUND: The cytosolic 5'-nucleotidase II (NT5C2) enzyme has been implicated 
+      in both psychiatric disorders and metabolic traits, but whether these 
+      associations reflect a shared biological basis remains unclear. Here we combined 
+      cross-species approaches to investigate how reduced NT5C2 function shapes 
+      behavior. RESULTS: In Drosophila melanogaster, neuronal knockdown of the ortholog 
+      dNT5B increased activity around light-dark transitions, reduced sleep 
+      fragmentation, and selectively suppressed food intake under satiated conditions. 
+      Moreover, analysis of mouse phenotyping data revealed that whole-body Nt5c2 
+      knockout alters locomotor activity, sensorimotor gating, and anxiety-related 
+      behaviors. Finally, human variant-trait associations showed reproducible 
+      enrichment in both metabolic domains, including body composition and BMI, and 
+      neuro-psychiatric outcomes such as schizophrenia, smoking, and anxiety. 
+      CONCLUSIONS: Together, these phenotypic findings indicate that NT5C2 is a 
+      conserved neuro-metabolic regulator, linking energy-related pathways to specific 
+      behavioral dimensions that may underlie its pleiotropic impact on psychiatric and 
+      metabolic risk.
+CI  - © 2025. The Author(s).
+FAU - Moulin, Thiago C
+AU  - Moulin TC
+AD  - Department of Surgical Sciences, Uppsala University, Uppsala, Sweden. 
+      thiago.moulin@uu.se.
+AD  - Department of Pharmaceutical Biosciences, Uppsala University, Uppsala, Sweden. 
+      thiago.moulin@uu.se.
+FAU - Aldavero-Muñoz, Iván
+AU  - Aldavero-Muñoz I
+AD  - Department of Surgical Sciences, Uppsala University, Uppsala, Sweden.
+AD  - Universidad Católica de Ávila, Ávila, Spain.
+FAU - Williams, Michael J
+AU  - Williams MJ
+AD  - Department of Surgical Sciences, Uppsala University, Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Surgical Sciences, Uppsala University, Uppsala, Sweden.
+AD  - Laboratory of Pharmaceutical Pharmacology, Latvian Institute of Organic 
+      Synthesis, Riga, Latvia.
+LA  - eng
+PT  - Journal Article
+DEP - 20260106
+PL  - England
+TA  - Behav Brain Funct
+JT  - Behavioral and brain functions : BBF
+JID - 101245751
+SB  - IM
+COIS- Declarations. Competing interests: The authors declare no competing interests.
+EDAT- 2026/01/07 01:10
+MHDA- 2026/01/07 01:10
+CRDT- 2026/01/06 23:58
+PHST- 2025/09/26 00:00 [received]
+PHST- 2025/12/01 00:00 [accepted]
+PHST- 2026/01/07 01:10 [medline]
+PHST- 2026/01/07 01:10 [pubmed]
+PHST- 2026/01/06 23:58 [entrez]
+AID - 10.1186/s12993-025-00314-w [pii]
+AID - 10.1186/s12993-025-00314-w [doi]
+PST - aheadofprint
+SO  - Behav Brain Funct. 2026 Jan 6. doi: 10.1186/s12993-025-00314-w.
+
+PMID- 40833403
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250820
+LR  - 20250905
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Print)
+IS  - 0027-8424 (Linking)
+VI  - 122
+IP  - 34
+DP  - 2025 Aug 26
+TI  - Monoamine-induced diacylglycerol signaling rapidly accumulates Unc13 in 
+      nanoclusters for fast presynaptic potentiation.
+PG  - e2514151122
+LID - 10.1073/pnas.2514151122 [doi]
+LID - e2514151122
+AB  - Neuromodulators control mood, arousal, and behavior by inducing synaptic 
+      plasticity via G-protein-coupled receptors. While long-term presynaptic 
+      potentiation requires structural changes, mechanisms enabling potentiation within 
+      minutes remain unclear. Using the Drosophila neuromuscular junction, we show that 
+      octopamine, the invertebrate analog of norepinephrine, potentiates evoked 
+      neurotransmitter release on the timescale of one minute via a G-protein-coupled 
+      pathway involving presynaptic OAMB receptors and phospholipase C. This fast 
+      potentiation correlates with elevated signals of the release factor Unc13A and 
+      the scaffolding protein Bruchpilot. Live, single-molecule imaging of endogenously 
+      tagged Unc13 revealed its instantly reduced motility and increased concentration 
+      in synaptic nanoclusters with potentiation. Presynaptic knockdown of Unc13A fully 
+      blocked fast potentiation. Moreover, deleting its N-terminal localization 
+      sequence mislocalized the protein fragment to the cytosol, but still allowed for 
+      rapid plasma membrane recruitment by diacylglycerol (DAG) analog phorbol esters 
+      and octopamine, implicating a role of more C-terminal domains. A point mutation 
+      of endogenous Unc13 in its DAG-binding C1 domain blocked plasticity-induced 
+      nanoscopic enrichment and synaptic potentiation. The mutation increased basal 
+      neurotransmission but reduced Unc13 levels, revealing a gain of function and 
+      potential homeostatic compensation. The mutation also blocked phorbol 
+      ester-induced potentiation, decreased the calcium sensitivity of 
+      neurotransmission, and caused short-term synaptic depression. Homeostatic 
+      potentiation induced by postsynaptic receptor block mirrored octopamine-induced 
+      Unc13 recruitment and required presynaptic OAMB receptors, indicating overlapping 
+      machinery. Thus, rapid Unc13 immobilization and nanoscale compaction are salient 
+      features of fast presynaptic potentiation.
+FAU - Blaum, Natalie
+AU  - Blaum N
+AD  - Molecular and Theoretical Neuroscience, Department of Neuroscience, Faculty of 
+      Health and Medical Sciences, University of Copenhagen, Copenhagen 2200, Denmark.
+FAU - Ghelani, Tina
+AU  - Ghelani T
+AD  - Molecular and Theoretical Neuroscience, Leibniz-Forschungsinstitut für Molekulare 
+      Pharmakologie, Berlin 13125, Germany.
+AD  - Institute for Biology and Genetics, Freie Universität Berlin, Berlin 14195, 
+      Germany.
+FAU - Götz, Torsten W B
+AU  - Götz TWB
+AD  - Molecular and Theoretical Neuroscience, Leibniz-Forschungsinstitut für Molekulare 
+      Pharmakologie, Berlin 13125, Germany.
+AD  - Institute for Biology and Genetics, Freie Universität Berlin, Berlin 14195, 
+      Germany.
+FAU - Chronister, Keagan S
+AU  - Chronister KS
+AD  - Molecular and Theoretical Neuroscience, Department of Neuroscience, Faculty of 
+      Health and Medical Sciences, University of Copenhagen, Copenhagen 2200, Denmark.
+FAU - Bengochea, Mercedes
+AU  - Bengochea M
+AD  - Molecular and Theoretical Neuroscience, Department of Neuroscience, Faculty of 
+      Health and Medical Sciences, University of Copenhagen, Copenhagen 2200, Denmark.
+FAU - Ceresnova, Livia
+AU  - Ceresnova L
+AD  - Molecular and Theoretical Neuroscience, Department of Neuroscience, Faculty of 
+      Health and Medical Sciences, University of Copenhagen, Copenhagen 2200, Denmark.
+FAU - Christensen, Christian F
+AU  - Christensen CF
+AD  - Molecular and Theoretical Neuroscience, Department of Neuroscience, Faculty of 
+      Health and Medical Sciences, University of Copenhagen, Copenhagen 2200, Denmark.
+FAU - Moulin, Thiago C
+AU  - Moulin TC
+AD  - Molecular and Theoretical Neuroscience, Department of Neuroscience, Faculty of 
+      Health and Medical Sciences, University of Copenhagen, Copenhagen 2200, Denmark.
+FAU - Kern, Hanna
+AU  - Kern H
+AD  - Functional Neurobiology, Institute of Developmental Biology and Neurobiology, 
+      Johannes Gutenberg University Mainz, Mainz 55128, Germany.
+FAU - Thomas, Ulrich
+AU  - Thomas U
+AUID- ORCID: 0000-0002-4372-8611
+AD  - Department of Cellular Neurobiology, Leibniz Institute for Neurobiology, 
+      Magdeburg 39118, Germany.
+FAU - Heine, Martin
+AU  - Heine M
+AD  - Functional Neurobiology, Institute of Developmental Biology and Neurobiology, 
+      Johannes Gutenberg University Mainz, Mainz 55128, Germany.
+FAU - Sigrist, Stephan J
+AU  - Sigrist SJ
+AUID- ORCID: 0000-0002-1698-5815
+AD  - Institute for Biology and Genetics, Freie Universität Berlin, Berlin 14195, 
+      Germany.
+FAU - Walter, Alexander M
+AU  - Walter AM
+AUID- ORCID: 0000-0001-5646-4750
+AD  - Molecular and Theoretical Neuroscience, Department of Neuroscience, Faculty of 
+      Health and Medical Sciences, University of Copenhagen, Copenhagen 2200, Denmark.
+AD  - Molecular and Theoretical Neuroscience, Leibniz-Forschungsinstitut für Molekulare 
+      Pharmakologie, Berlin 13125, Germany.
+LA  - eng
+GR  - HE3604/11-1/Deutsche Forschungsgemeinschaft (DFG)/
+GR  - 278001972/Deutsche Forschungsgemeinschaft (DFG)/
+GR  - P40 OD018537/OD/NIH HHS/United States
+GR  - 261020751/Deutsche Forschungsgemeinschaft (DFG)/
+GR  - 101045054/EC | European Research Council (ERC)/
+GR  - NNF19OC0056047/Novo Nordisk Fonden (NNF)/
+PT  - Journal Article
+DEP - 20250820
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (Diglycerides)
+RN  - 0 (Drosophila Proteins)
+RN  - 14O50WS8JD (Octopamine)
+RN  - 0 (Nerve Tissue Proteins)
+SB  - IM
+MH  - Animals
+MH  - *Diglycerides/metabolism
+MH  - *Drosophila Proteins/metabolism/genetics
+MH  - Neuromuscular Junction/metabolism/drug effects
+MH  - Octopamine/pharmacology/metabolism
+MH  - Signal Transduction/drug effects
+MH  - *Nerve Tissue Proteins/metabolism/genetics
+MH  - Drosophila melanogaster/metabolism
+MH  - *Presynaptic Terminals/metabolism
+MH  - Neuronal Plasticity
+MH  - Synaptic Transmission
+PMC - PMC12403152
+OTO - NOTNLM
+OT  - G-protein- coupled receptors
+OT  - Munc13
+OT  - Neuromodulation
+OT  - neurotransmitter release
+OT  - synaptic plasticity
+COIS- Competing interests statement:The authors declare no competing interest.
+EDAT- 2025/08/20 12:31
+MHDA- 2025/08/20 12:32
+PMCR- 2025/08/20
+CRDT- 2025/08/20 10:58
+PHST- 2025/08/20 12:32 [medline]
+PHST- 2025/08/20 12:31 [pubmed]
+PHST- 2025/08/20 10:58 [entrez]
+PHST- 2025/08/20 00:00 [pmc-release]
+AID - 202514151 [pii]
+AID - 10.1073/pnas.2514151122 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2025 Aug 26;122(34):e2514151122. doi: 
+      10.1073/pnas.2514151122. Epub 2025 Aug 20.
+
+PMID- 40570385
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250712
+LR  - 20250712
+IS  - 1879-1026 (Electronic)
+IS  - 0048-9697 (Linking)
+VI  - 992
+DP  - 2025 Aug 25
+TI  - Extensive analysis of pollutant interactions: Identification of deleterious 
+      synergistic effects at environmentally relevant dose levels using Drosophila and 
+      mammalian cells.
+PG  - 179848
+LID - S0048-9697(25)01489-5 [pii]
+LID - 10.1016/j.scitotenv.2025.179848 [doi]
+AB  - Environmental pollutants are commonly present in low concentrations, often as 
+      complex mixtures that can lead to various interaction phenomena, including 
+      synergism, antagonism, or additive effects. These interactions can alter the 
+      overall toxicity or biological impact of the mixture when compared to the effects 
+      of individual pollutants. While regulatory agencies typically assess the safety 
+      of individual pollutants, the cumulative and interactive effects of pollutant 
+      mixtures are less well understood. This study aims to address this gap by 
+      evaluating the interactions of eight common pollutants (BPA, BADGE, DBP, DEHP, 
+      PFOA, 4MBC, OMC, TCEP) at their no observed effect level (NOEL) concentrations. 
+      The study specifically focuses on identifying potential synergistic effects on 
+      cell viability, transcriptomic changes, and phenotypic outcomes in two biological 
+      models: Drosophila and mammalian cell lines. Nearly 400 combinations of 
+      pollutants were tested, and their effects were compared to those of individual 
+      pollutants and appropriate controls. The results highlighted significant 
+      findings, including detrimental effects of the BPA-DBP-OMC mixture on neuronal 
+      differentiation and the BADGE-OMC-TCEP mixture's negative impact on muscle 
+      differentiation on Drosophila and mammalian cell lines. Cytotoxic synergy effects 
+      were also found between bisphenol derivatives and phthalates. These findings 
+      emphasize the need to consider the risks associated with pollutant mixtures.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier B.V. All rights reserved.
+FAU - Lagunas-Rangel, Francisco Alejandro
+AU  - Lagunas-Rangel FA
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden; Laboratory of Pharmaceutical Pharmacology, 
+      Latvian Institute of Organic Synthesis, Riga, Latvia. Electronic address: 
+      francisco.lagunas@farm.osi.lv.
+FAU - Åberg, Martin
+AU  - Åberg M
+AD  - Department of Medical Sciences, Uppsala University, Uppsala, Sweden.
+FAU - Liao, Sifang
+AU  - Liao S
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Espinelli-Amorim, Felippe
+AU  - Espinelli-Amorim F
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Tummaramatti-Hanumant, Rajanidevi
+AU  - Tummaramatti-Hanumant R
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Jackeviča, Ludmila
+AU  - Jackeviča L
+AD  - Laboratory of Pharmaceutical Pharmacology, Latvian Institute of Organic 
+      Synthesis, Riga, Latvia.
+FAU - Briviba, Monta
+AU  - Briviba M
+AD  - Translational Omics Group, Latvian Biomedical Research and Study Centre, Riga, 
+      Latvia.
+FAU - Liu, Wen
+AU  - Liu W
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden.
+FAU - Fredriksson, Robert
+AU  - Fredriksson R
+AD  - Department of Pharmaceutical Biosciences, Uppsala University, Uppsala, Sweden.
+FAU - Alsehli, Ahmed M
+AU  - Alsehli AM
+AD  - Department of Physiology, Faculty of Medicine, King Abdulaziz University, Jeddah, 
+      Kingdom of Saudi Arabia.
+FAU - Spjuth, Ola
+AU  - Spjuth O
+AD  - Department of Physiology, Faculty of Medicine, King Abdulaziz University, Jeddah, 
+      Kingdom of Saudi Arabia.
+FAU - Klovins, Janis
+AU  - Klovins J
+AD  - Genome Centre, Latvian Biomedical Research and Study Centre, Riga, Latvia.
+FAU - Dambrova, Maija
+AU  - Dambrova M
+AD  - Laboratory of Pharmaceutical Pharmacology, Latvian Institute of Organic 
+      Synthesis, Riga, Latvia.
+FAU - Kudłak, Błażej
+AU  - Kudłak B
+AD  - Department of Analytical Chemistry, Faculty of Chemistry, Gdańsk University of 
+      Technology, Gdańsk, Poland.
+FAU - Andersson, Claes
+AU  - Andersson C
+AD  - Department of Medical Sciences, Uppsala University, Uppsala, Sweden.
+FAU - Schiöth, Helgi B
+AU  - Schiöth HB
+AD  - Department of Surgical Sciences, Functional Pharmacology and Neuroscience, 
+      Uppsala University, Uppsala, Sweden; Laboratory of Pharmaceutical Pharmacology, 
+      Latvian Institute of Organic Synthesis, Riga, Latvia. Electronic address: 
+      helgi.schioth@uu.se.
+LA  - eng
+PT  - Journal Article
+DEP - 20250625
+PL  - Netherlands
+TA  - Sci Total Environ
+JT  - The Science of the total environment
+JID - 0330500
+RN  - 0 (Environmental Pollutants)
+RN  - 0 (Benzhydryl Compounds)
+SB  - IM
+MH  - Animals
+MH  - *Environmental Pollutants/toxicity
+MH  - Drosophila
+MH  - Cell Line
+MH  - Benzhydryl Compounds/toxicity
+MH  - Drug Synergism
+MH  - Cell Survival/drug effects
+MH  - Humans
+OTO - NOTNLM
+OT  - Bisphenol a
+OT  - Endocrine disruptors
+OT  - Phthalates
+OT  - Pollutant mixtures
+OT  - RNA-seq
+COIS- Declaration of competing interest The authors declare no conflict of interest.
+EDAT- 2025/06/26 18:35
+MHDA- 2025/07/13 03:40
+CRDT- 2025/06/26 18:00
+PHST- 2025/04/08 00:00 [received]
+PHST- 2025/06/03 00:00 [revised]
+PHST- 2025/06/04 00:00 [accepted]
+PHST- 2025/07/13 03:40 [medline]
+PHST- 2025/06/26 18:35 [pubmed]
+PHST- 2025/06/26 18:00 [entrez]
+AID - S0048-9697(25)01489-5 [pii]
+AID - 10.1016/j.scitotenv.2025.179848 [doi]
+PST - ppublish
+SO  - Sci Total Environ. 2025 Aug 25;992:179848. doi: 10.1016/j.scitotenv.2025.179848. 
+      Epub 2025 Jun 25.
+
 PMID- 34079435
 OWN - NLM
 STAT- PubMed-not-MEDLINE

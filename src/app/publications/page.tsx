@@ -119,13 +119,22 @@ export default function PublicationsPage() {
     .sort((a, b) => Number(b.year) - Number(a.year));
 
   return (
-    <main className="min-h-screen bg-black text-white py-12 px-4">
+    <main className="relative min-h-screen bg-black text-white py-12 px-4">
+      {/* Back Button (top-left) */}
+      <button
+        onClick={() => router.back()}
+        className="absolute left-4 top-4 text-white text-lg hover:underline"
+      >
+        &larr; Back
+      </button>
+
+      
       <div className="max-w-6xl mx-auto space-y-8">
         {/* Header */}
         <section>
           <h2 className="text-3xl font-bold text-left">Publications</h2>
           <hr className="mt-2 border-t-4 border-white w-1/3 mb-6" />
-        </section>
+          </section>
 
         {/* Filters */}
         <div className="flex flex-wrap gap-4">
