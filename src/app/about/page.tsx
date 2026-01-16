@@ -13,31 +13,52 @@ export default function About() {
             <h2 className="text-3xl font-bold text-left">Lab leaders</h2>
             <hr className="mt-2 border-t-4 border-white w-1/3" />
           </div>
+
           <div className="flex flex-col sm:flex-row justify-center items-center gap-8">
-            <div className="flex flex-col items-center">
-              <img
-                src="/about/thiago.png"
-                alt="Dr. Thiago Moulin"
-                className="h-48 w-auto rounded-full mb-4"
-              />
-              <p className="text-lg font-medium">Dr. Thiago Moulin</p>
-            </div>
-            <div className="flex flex-col items-center">
-              <img
-                src="/about/helgi.png"
-                alt="Prof. Helgi Schiöth"
-                className="h-48 w-auto rounded-full mb-4"
-              />
-              <p className="text-lg font-medium">Prof. Helgi Schiöth</p>
-            </div>
-            <div className="flex flex-col items-center">
+            {/* 1) Robert */}
+            <a
+              href="https://www.uu.se/kontakt-och-organisation/personal?query=N96-5706"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex flex-col items-center hover:underline"
+            >
               <img
                 src="/about/robert.png"
                 alt="Prof. Robert Fredriksson"
                 className="h-48 w-auto rounded-full mb-4"
               />
               <p className="text-lg font-medium">Prof. Robert Fredriksson</p>
-            </div>
+            </a>
+
+            {/* 2) Thiago */}
+            <a
+              href="https://www.uu.se/kontakt-och-organisation/personal?query=N18-2325"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex flex-col items-center hover:underline"
+            >
+              <img
+                src="/about/thiago.png"
+                alt="Dr. Thiago Moulin"
+                className="h-48 w-auto rounded-full mb-4"
+              />
+              <p className="text-lg font-medium">Dr. Thiago Moulin</p>
+            </a>
+
+            {/* 3) Helgi */}
+            <a
+              href="https://www.uu.se/kontakt-och-organisation/personal?query=N94-1683"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex flex-col items-center hover:underline"
+            >
+              <img
+                src="/about/helgi.png"
+                alt="Prof. Helgi Schiöth"
+                className="h-48 w-auto rounded-full mb-4"
+              />
+              <p className="text-lg font-medium">Prof. Helgi Schiöth</p>
+            </a>
           </div>
         </section>
 

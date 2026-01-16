@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 import Image from "next/image";
 
 interface ResearchLine {
@@ -80,6 +81,7 @@ The goal is to establish an integrative framework for understanding the biologic
 
 export default function ProjectsPage() {
   const [active, setActive] = useState(sections[0].label);
+  const router = useRouter();
 
   return (
     <main className="min-h-screen bg-black text-white py-12 px-4">

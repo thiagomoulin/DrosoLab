@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
 
 interface Publication {
   pmid: string;
@@ -23,6 +24,7 @@ export default function PublicationsPage() {
   const [years, setYears] = useState<string[]>([]);
   const [yearFilter, setYearFilter] = useState("All");
   const [authorFilter, setAuthorFilter] = useState("All");
+  const router = useRouter();
 
   useEffect(() => {
     fetch("/publications.txt")
