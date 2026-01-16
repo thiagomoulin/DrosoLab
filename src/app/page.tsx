@@ -27,7 +27,7 @@ export default function Home() {
       <div className="flex flex-col items-center justify-center h-full px-6 text-center bg-black/40 space-y-8">
         <div>
           <h1 className="text-5xl md:text-6xl font-bold mb-4 drop-shadow-lg">
-            NeuroFly Uppsala
+            DrosoLab Uppsala
           </h1>
           <p className="text-lg md:text-xl max-w-2xl drop-shadow-md">
             We study how genes and environment shape the brain, behavior, and everything in between.
